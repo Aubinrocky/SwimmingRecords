@@ -1,0 +1,999 @@
+	Discipline	Sexe	Bassin (m)	Temps	Age	Nationalite	Lieu	Date
+0	50_mètres_nage_libre	Homme	50	23:86		 Afrique du Sud	 Philadelphie	1976-08-14
+1	50_mètres_nage_libre	Homme	50	23:74		 États-Unis	 Etobicoke	1977-07-3
+2	50_mètres_nage_libre	Homme	50	23:72		 États-Unis	 Miami	1978-07-29
+3	50_mètres_nage_libre	Homme	50	23:70	27	 Allemagne de l'Ouest	 Fribourg-en-Brisgau	1979-07-23
+4	50_mètres_nage_libre	Homme	50	23:66		 États-Unis	 Amersfoot	1980-02-2
+5	50_mètres_nage_libre	Homme	50	22:83		 États-Unis	 Austin	1980-04-10
+6	50_mètres_nage_libre	Homme	50	22:83		 États-Unis	 Honolulu	1980-08-15
+7	50_mètres_nage_libre	Homme	50	22:71		 États-Unis	 Honolulu	1980-08-15
+8	50_mètres_nage_libre	Homme	50	22:54		 États-Unis	 Brown Deer	1981-08-15
+9	50_mètres_nage_libre	Homme	50	22:52	22	 Suisse	 Bellinzone	1985-07-21
+10	50_mètres_nage_libre	Homme	50	22:40	21	 États-Unis	 Austin	1985-12-6
+11	50_mètres_nage_libre	Homme	50	22:33	21	 États-Unis	 Orlando	1986-06-26
+12	50_mètres_nage_libre	Homme	50	22:33	22	 États-Unis	 Clovis	1987-07-30
+13	50_mètres_nage_libre	Homme	50	22:32	23	 États-Unis	 Brisbane	1987-08-13
+14	50_mètres_nage_libre	Homme	50	22:23	24	 États-Unis	 Orlando	1988-03-25
+15	50_mètres_nage_libre	Homme	50	22:18		 Afrique du Sud	 Indianapolis	1988-04-10
+16	50_mètres_nage_libre	Homme	50	22:14	23	 États-Unis	 Séoul	1988-09-24
+17	50_mètres_nage_libre	Homme	50	22:12	25	 États-Unis	 Tokyo	1989-08-20
+18	50_mètres_nage_libre	Homme	50	21:98	26	 États-Unis	 Nashville	1990-03-24
+19	50_mètres_nage_libre	Homme	50	21:81	26	 États-Unis	 Nashville	1990-03-24
+20	50_mètres_nage_libre	Homme	50	21:64	29	 Russie	 Moscou	2000-06-16
+21	50_mètres_nage_libre	Homme	50	21:56	22	 Australie	 Sydney	2008-02-17
+22	50_mètres_nage_libre	Homme	50	21:50	24	 France	 Eindhoven	2008-03-23
+23	50_mètres_nage_libre	Homme	50	21:41	22	 Australie	 Sydney	2008-03-27
+24	50_mètres_nage_libre	Homme	50	21:28	22	 Australie	 Sydney	2008-03-28
+25	50_mètres_nage_libre	Homme	50	20:94	28	 France	 Montpellier	2009-04-26
+26	50_mètres_nage_libre	Homme	50	20:91	22	 Brésil	 São Paulo	2009-12-18
+27	50_mètres_nage_libre	Homme	25	21:64	29	 États-Unis	 Dallas	1992-03-24
+28	50_mètres_nage_libre	Homme	25	21:60	23	 Royaume-Uni	 Sheffield	1993-02-17
+29	50_mètres_nage_libre	Homme	25	21:50	23	 Russie	 Desenzano del Garda	1994-03-13
+30	50_mètres_nage_libre	Homme	25	21:48	28	 Royaume-Uni	 Sheffield	1998-12-13
+31	50_mètres_nage_libre	Homme	25	21:31	28	 Royaume-Uni	 Sheffield	1998-12-13
+32	50_mètres_nage_libre	Homme	25	21:31	20	 Afrique du Sud	 Minneapolis	2000-03-23
+33	50_mètres_nage_libre	Homme	25	21:28	20	 Afrique du Sud	 Minneapolis	2000-03-23
+34	50_mètres_nage_libre	Homme	25	21:21	20	 États-Unis	 Minneapolis	2000-03-23
+35	50_mètres_nage_libre	Homme	25	21:13	31	 Royaume-Uni	 Paris	2001-01-28
+36	50_mètres_nage_libre	Homme	25	21:10	23	 France	 Long Island	2004-03-25
+37	50_mètres_nage_libre	Homme	25	20:98	26	 Afrique du Sud	 Hambourg	2006-08-13
+38	50_mètres_nage_libre	Homme	25	20:93	26	 Suède	 Berlin	2007-11-18
+39	50_mètres_nage_libre	Homme	25	20:81	25	 Croatie	 Manchester	2008-04-11
+40	50_mètres_nage_libre	Homme	25	20:64	28	 Afrique du Sud	 Johannesburg	2008-09-6
+41	50_mètres_nage_libre	Homme	25	20:48	23	 France	 Rijeka	2008-12-11
+42	50_mètres_nage_libre	Homme	25	20:30	29	 Afrique du Sud	 Pietermaritzburg	2009-08-8
+43	50_mètres_nage_libre	Homme	25	20:26	24	 France	 Doha	2014-12-5
+44	50_mètres_nage_libre	Homme	25	20:24	23	 États-Unis	 Las Vegas	2019-12-20
+45	50_mètres_nage_libre	Homme	25	20:16		 États-Unis	 Budapest	2020-11-21
+46	100_mètres_nage_libre	Homme	50	1:5:8	24	 Autriche-Hongrie	 Vienne	1905-12-3
+47	100_mètres_nage_libre	Homme	50	1:5:6	23	 États-Unis	 Londres	1908-07-20
+48	100_mètres_nage_libre	Homme	50	1:2:8	25	 États-Unis	 New York	1910-04-15
+49	100_mètres_nage_libre	Homme	50	1:2:4	20	 Empire allemand	 Bruxelles	1912-04-6
+50	100_mètres_nage_libre	Homme	50	1:2:6	22	 États-Unis	 Suède Stockholm	1912-07-6
+51	100_mètres_nage_libre	Homme	50	1:1:6	22	 États-Unis	 Hambourg	1912-07-20
+52	100_mètres_nage_libre	Homme	50	1:1:4	28	 États-Unis	 New York	1918-08-9
+53	100_mètres_nage_libre	Homme	50	1:0:4	30	 États-Unis	 Anvers	1920-08-24
+54	100_mètres_nage_libre	Homme	50	58:6	18	 États-Unis	 Alameda	1922-07-19
+55	100_mètres_nage_libre	Homme	50	57:4	20	 États-Unis	 Miami	1924-02-17
+56	100_mètres_nage_libre	Homme	50	56:8	21	 États-Unis	 New Haven	1934-03-2
+57	100_mètres_nage_libre	Homme	50	56:6	22	 États-Unis	 New Haven	1935-03-5
+58	100_mètres_nage_libre	Homme	50	56:4	23	 États-Unis	 New Haven	1936-02-11
+59	100_mètres_nage_libre	Homme	50	55:9	21	 États-Unis	 New Haven	1944-04-13
+60	100_mètres_nage_libre	Homme	50	55:8	18	 France	 Menton	1947-09-15
+61	100_mètres_nage_libre	Homme	50	55:4	25	 États-Unis	 New Haven	1948-06-29
+62	100_mètres_nage_libre	Homme	50	54:8	25	 États-Unis	 New Haven	1954-04-1
+63	100_mètres_nage_libre	Homme	50	55:4	21	 Australie	 Melbourne	1956-11-30
+64	100_mètres_nage_libre	Homme	50	55:2	20	 Australie	 Sydney	1957-01-19
+65	100_mètres_nage_libre	Homme	50	54:6	20	 Australie	 Brisbane	1957-01-28
+66	100_mètres_nage_libre	Homme	50	54:4	18	 États-Unis	 Budapest	1961-08-18
+67	100_mètres_nage_libre	Homme	50	53:6	22	 Brésil	 Rio de Janeiro	1961-09-20
+68	100_mètres_nage_libre	Homme	50	52:9	22	 France	 Budapest	1964-09-13
+69	100_mètres_nage_libre	Homme	50	52:9	21	 États-Unis	 Tokyo	1964-10-14
+70	100_mètres_nage_libre	Homme	50	52:6	22	 États-Unis	 Winnipeg	1967-07-27
+71	100_mètres_nage_libre	Homme	50	52:6	21	 États-Unis	 Los Angeles	1968-09-2
+72	100_mètres_nage_libre	Homme	50	52:2	19	 Australie	 Mexico	1968-10-19
+73	100_mètres_nage_libre	Homme	50	51:94	20	 États-Unis	 Chicago	1970-08-23
+74	100_mètres_nage_libre	Homme	50	51:47	22	 États-Unis	 Chicago	1972-08-5
+75	100_mètres_nage_libre	Homme	50	51:22	22	 États-Unis	 Munich	1972-09-3
+76	100_mètres_nage_libre	Homme	50	51:12	20	 États-Unis	 Long Beach	1975-06-21
+77	100_mètres_nage_libre	Homme	50	51:11	17	 États-Unis	 Fort Lauderdale	1975-08-3
+78	100_mètres_nage_libre	Homme	50	50:59	20	 États-Unis	 Kansas City	1975-08-23
+79	100_mètres_nage_libre	Homme	50	50:39	21	 États-Unis	 Montréal	1976-07-24
+80	100_mètres_nage_libre	Homme	50	49:99	21	 États-Unis	 Montréal	1976-07-25
+81	100_mètres_nage_libre	Homme	50	49:44	22	 Afrique du Sud	 Philadelphie	1976-08-14
+82	100_mètres_nage_libre	Homme	50	49:36	22	 États-Unis	 Austin	1981-04-3
+83	100_mètres_nage_libre	Homme	50	49:24	20	 États-Unis	 Mission Viejo	1985-08-6
+84	100_mètres_nage_libre	Homme	50	48:95	20	 États-Unis	 Mission Viejo	1985-08-6
+85	100_mètres_nage_libre	Homme	50	48:74	21	 États-Unis	 Orlando	1986-06-24
+86	100_mètres_nage_libre	Homme	50	48:42	23	 États-Unis	 Austin	1988-08-10
+87	100_mètres_nage_libre	Homme	50	48:21	23	 Russie	 Monaco	1994-06-18
+88	100_mètres_nage_libre	Homme	50	48:18	23	 Australie	 Sydney	2000-09-16
+89	100_mètres_nage_libre	Homme	50	47:84	22	 Pays-Bas	 Sydney	2000-09-19
+90	100_mètres_nage_libre	Homme	50	47:60	24	 France	 Eindhoven	2008-03-21
+91	100_mètres_nage_libre	Homme	50	47:50	24	 France	 Eindhoven	2008-03-22
+92	100_mètres_nage_libre	Homme	50	47:24	22	 Australie	 Pékin	2008-08-11
+93	100_mètres_nage_libre	Homme	50	47:20	24	 France	 Pékin	2008-08-13
+94	100_mètres_nage_libre	Homme	50	47:05	22	 Australie	 Pékin	2008-08-13
+95	100_mètres_nage_libre	Homme	50	46:94	25	 France	 Montpellier	2009-04-23
+96	100_mètres_nage_libre	Homme	50	46:91	22	 Brésil	 Rome	2009[8]-07-30
+97	100_mètres_nage_libre	Homme	25	47:66	20	 États-Unis	 Tokyo	1985-08-17
+98	100_mètres_nage_libre	Homme	25	47:12	24	 Pays-Bas	 Berlin	2002-07-29
+99	100_mètres_nage_libre	Homme	25	46:70	25	 Pays-Bas	 Barcelone	2003-07-27
+100	100_mètres_nage_libre	Homme	25	46:06	33	 États-Unis	 Pékin	2008-08-11
+101	200_mètres_nage_libre	Homme	50	2:28:6		 Australie	Weston-s-Mare	1902-08-18
+102	200_mètres_nage_libre	Homme	50	2:26:8		 Autriche-Hongrie	Budapest	1908-06-28
+103	200_mètres_nage_libre	Homme	50	2:25:4	24	 États-Unis	Pittsburgh	1909-03-26
+104	200_mètres_nage_libre	Homme	50	2:21:6	20	 États-Unis	San Francisco	1916-11-24
+105	200_mètres_nage_libre	Homme	50	2:19:8		 États-Unis	Détroit	1920-04-10
+106	200_mètres_nage_libre	Homme	50	2:15:6	18	 États-Unis	Honolulu	1922-05-26
+107	200_mètres_nage_libre	Homme	50	2:15:2	21	 États-Unis	McKeesport	1925-12-9
+108	200_mètres_nage_libre	Homme	50	2:08:0	23	 États-Unis	Ann Arbor	1927-04-5
+109	200_mètres_nage_libre	Homme	50	2:07:2	21	 États-Unis	Chicago	1935-04-12
+110	200_mètres_nage_libre	Homme	50	2:06:2	20	 États-Unis	Columbus	1944-02-12
+111	200_mètres_nage_libre	Homme	50	2:05:4	17	 France	Marseille	1946-09-20
+112	200_mètres_nage_libre	Homme	50	2:04:6	20	 Australie	New Haven	1950-03-31
+113	200_mètres_nage_libre	Homme	50	2:03:9	21	 États-Unis	Columbus	1954-02-27
+114	200_mètres_nage_libre	Homme	50	2:03:4		 Royaume-Uni	Columbus	1955-03-8
+115	200_mètres_nage_libre	Homme	50	2:01:5		 États-Unis	Minneapolis	1957-03-8
+116	200_mètres_nage_libre	Homme	50	2:04:8 	16	 Australie	Sydney	1958-01-18
+117	200_mètres_nage_libre	Homme	50	2:03:02 	16	 Australie	Sydney	1958-03-5
+118	200_mètres_nage_libre	Homme	50	2:03:0	19	 Japon	Osaka	1958-08-22
+119	200_mètres_nage_libre	Homme	50	2:02:2 	17	 Australie	Sydney	1959-01-16
+120	200_mètres_nage_libre	Homme	50	2:01:5	20	 Japon	Osaka	1959-07-26
+121	200_mètres_nage_libre	Homme	50	2:01:2	22	 Japon	Osaka	1961-06-24
+122	200_mètres_nage_libre	Homme	50	2:01:1	22	 Japon	Tokyo	1961-08-6
+123	200_mètres_nage_libre	Homme	50	2:00:4	22	 Japon	Los Angeles	1961-08-2
+124	200_mètres_nage_libre	Homme	50	2:00:3	19	 Australie	Tokyo	1963-08-13
+125	200_mètres_nage_libre	Homme	50	1:58:8	17	 États-Unis	Los Angeles	1963-07-27
+126	200_mètres_nage_libre	Homme	50	1:58:5	17	 États-Unis	Tokyo	1963-04-21
+127	200_mètres_nage_libre	Homme	50	1:58:4	17	 États-Unis	Osaka	1963-08-24
+128	200_mètres_nage_libre	Homme	50	1:58:2	22	 Allemagne de l'Ouest	Dortmund	1964-05-24
+129	200_mètres_nage_libre	Homme	50	1:57:6	18	 États-Unis	Los Altos	1964-08-1
+130	200_mètres_nage_libre	Homme	50	1:57:2	20	 États-Unis	Los Angeles	1966-07-29
+131	200_mètres_nage_libre	Homme	50	1:56:2	20	 États-Unis	Lincoln	1966-08-19
+132	200_mètres_nage_libre	Homme	50	1:56:0	21	 États-Unis	Winnipeg	1967-07-29
+133	200_mètres_nage_libre	Homme	50	1:55:7	21	 États-Unis	Oak Park	1967-08-12
+134	200_mètres_nage_libre	Homme	50	1:54:8	22	 États-Unis	Long Beach	1968-08-30
+135	200_mètres_nage_libre	Homme	50	1:54:3	22	 États-Unis	Long Beach	1968-08-30
+136	200_mètres_nage_libre	Homme	50	1:54:3	19	 États-Unis	Santa Clara	1969-07-12
+137	200_mètres_nage_libre	Homme	50	1:54:2	21	 États-Unis	Leipzig	1971-09-4
+138	200_mètres_nage_libre	Homme	50	1:53:5	21	 États-Unis	Minsk	1971-09-10
+139	200_mètres_nage_libre	Homme	50	1:52:78	22	 États-Unis	Munich	1972-08-29
+140	200_mètres_nage_libre	Homme	50	1:51:66	17	 États-Unis	Concord	1974-08-23
+141	200_mètres_nage_libre	Homme	50	1:51:41	18	 États-Unis	Long Beach	1975-06-18
+142	200_mètres_nage_libre	Homme	50	1:50:89	18	 États-Unis	Long Beach	1975-06-18
+143	200_mètres_nage_libre	Homme	50	1:50:32	18	 États-Unis	Kansas City	1975-08-21
+144	200_mètres_nage_libre	Homme	50	1:50:29	19	 États-Unis	Montréal	1976-07-19
+145	200_mètres_nage_libre	Homme	50	1:49:83	20	 Union soviétique	Potsdam	1979-04-7
+146	200_mètres_nage_libre	Homme	50	1:49:16	21	 États-Unis	Austin	1980-04-10
+147	200_mètres_nage_libre	Homme	50	1:48:93	23	 États-Unis	Mission Viejo	1982-07-19
+148	200_mètres_nage_libre	Homme	50	1:48:28	19	 Allemagne de l'Ouest	Hanovre	1983-06-21
+149	200_mètres_nage_libre	Homme	50	1:47:87	19	 Allemagne de l'Ouest	Rome	1983-08-22
+150	200_mètres_nage_libre	Homme	50	1:47:55	20	 Allemagne de l'Ouest	Munich	1984-06-8
+151	200_mètres_nage_libre	Homme	50	1:47:44	20	 Allemagne de l'Ouest	Los Angeles	1984-07-29
+152	200_mètres_nage_libre	Homme	50	1:47:25	20	 Australie	Séoul	1988-09-19
+153	200_mètres_nage_libre	Homme	50	1:46:69	20	 Italie	Bonn	1989-08-15
+154	200_mètres_nage_libre	Homme	50	1:46:67	19	 Australie	Brisbane	1999-03-23
+155	200_mètres_nage_libre	Homme	50	1:46:34	17	 Australie	Sydney	1999-08-23
+156	200_mètres_nage_libre	Homme	50	1:46:00	17	 Australie	Sydney	1999-08-24
+157	200_mètres_nage_libre	Homme	50	1:45:69	18	 Australie	Sydney	2000-05-14
+158	200_mètres_nage_libre	Homme	50	1:45:51	18	 Australie	Sydney	2000-05-15
+159	200_mètres_nage_libre	Homme	50	1:45:35	22	 Pays-Bas	Sydney	2000-09-17
+160	200_mètres_nage_libre	Homme	50	1:45:35	22	 Pays-Bas	Sydney	2000-09-18
+161	200_mètres_nage_libre	Homme	50	1:44:69	19	 Australie	Hobart	2001-03-27
+162	200_mètres_nage_libre	Homme	50	1:44:06	19	 Australie	Fukuoka	2001-07-25
+163	200_mètres_nage_libre	Homme	50	1:43:86	22	 États-Unis	 Melbourne	2007-03-27
+164	200_mètres_nage_libre	Homme	50	1:42:96	23	 États-Unis	 Pékin	2008-08-12
+165	200_mètres_nage_libre	Homme	50	1:42:00	23	 Allemagne	 Rome	2009-07-28
+166	200_mètres_nage_libre	Homme	25	1:44:14	19	 Australie	 Fukuoka	2001-07-27
+167	200_mètres_nage_libre	Homme	25	1:44:12	26	 Italie	 Pékin	2008-08-13
+168	200_mètres_nage_libre	Homme	25	1:44:05	27	 États-Unis	 Londres	2012-08-1
+169	200_mètres_nage_libre	Homme	25	1:43:24	20	 France	 Londres	2012-08-1
+170	200_mètres_nage_libre	Homme	25	1:43:16	22	 Chine	 Barcelone	2013-08-2
+171	400_mètres_nage_libre	Homme	50	5:36:8	23	 Royaume-Uni	 Londres	1908-07-16
+172	400_mètres_nage_libre	Homme	50	5:26:4	21	 Royaume-Uni	 Seacombe	1908-10-2
+173	400_mètres_nage_libre	Homme	50	5:23:0	19	 Australie	 Budapest	1910-06-8
+174	400_mètres_nage_libre	Homme	50	5:21:6	19	 Royaume-Uni	 Londres	1912-09-26
+175	400_mètres_nage_libre	Homme	50	5:14:6	23	 États-Unis	 Los Angeles	1919-10-9
+176	400_mètres_nage_libre	Homme	50	5:14:4	25	 États-Unis	 Brighton Beach	1921-09-25
+177	400_mètres_nage_libre	Homme	50	5:11:8	21	 Suède	 Stockholm	1922-06-22
+178	400_mètres_nage_libre	Homme	50	5:06:6	18	 États-Unis	 Honolulu	1922-06-22
+179	400_mètres_nage_libre	Homme	50	4:57:0	19	 États-Unis	 New Haven	1923-03-6
+180	400_mètres_nage_libre	Homme	50	4:57:7	22	 Suède	 Stockholm	1923-12-9
+181	400_mètres_nage_libre	Homme	50	4:50:3	24	 Suède	 Stockholm	1925-09-11
+182	400_mètres_nage_libre	Homme	50	4:47:0	22	 France	 Paris	1931-04-16
+183	400_mètres_nage_libre	Homme	50	4:46:4	18	 Japon	 Tokyo	1933-08-14
+184	400_mètres_nage_libre	Homme	50	4:38:7	20	 États-Unis	 Honolulu	1934-08-30
+185	400_mètres_nage_libre	Homme	50	4:38:5		 États-Unis	 Honolulu	1941-05-13
+186	400_mètres_nage_libre	Homme	50	4:35:2	18	 France	 Monte-Carlo	1947-09-12
+187	400_mètres_nage_libre	Homme	50	4:34:6		 Japon	 Tokyo	1949-07-24
+188	400_mètres_nage_libre	Homme	50	4:33:3		 Japon	 Los Angeles	1949-08-18
+189	400_mètres_nage_libre	Homme	50	4:33:1	20	 Australie	 New Haven	1950-03-11
+190	400_mètres_nage_libre	Homme	50	4:29:5	20	 Australie	 New Haven	1950-04-1
+191	400_mètres_nage_libre	Homme	50	4:26:9	21	 Australie	 New Haven	1951-03-24
+192	400_mètres_nage_libre	Homme	50	4:26:7	21	 États-Unis	 New Haven	1954-04-3
+193	400_mètres_nage_libre	Homme	50	4:25:9	19	 Australie	 Sydney	1958-01-15
+194	400_mètres_nage_libre	Homme	50	4:21:8	15	 Australie	 Melbourne	1957-01-12
+195	400_mètres_nage_libre	Homme	50	4:19:0	17	 Australie	 Sydney	1959-02-7
+196	400_mètres_nage_libre	Homme	50	4:16:6	20	 Japon	 Osaka	1959-07-26
+197	400_mètres_nage_libre	Homme	50	4:15:9	18	 Australie	 Sydney	1960-02-23
+198	400_mètres_nage_libre	Homme	50	4:13:4	23	 Australie	 Chicago	1962-08-17
+199	400_mètres_nage_libre	Homme	50	4:12:7	18	 États-Unis	 Los Altos	1964-07-31
+200	400_mètres_nage_libre	Homme	50	4:12:2	18	 États-Unis	 Tokyo	1964-10-15
+201	400_mètres_nage_libre	Homme	50	4:11:8		 États-Unis	 Lincoln	1966-08-18
+202	400_mètres_nage_libre	Homme	50	4:11:6	20	 États-Unis	 Lincoln	1966-08-18
+203	400_mètres_nage_libre	Homme	50	4:11:1		 Allemagne de l'Est	 Utrecht	1966-08-25
+204	400_mètres_nage_libre	Homme	50	4:10:6	17	 États-Unis	 Haywood	1967-06-25
+205	400_mètres_nage_libre	Homme	50	4:10:6	18	 France	 Monaco	1967-07-2
+206	400_mètres_nage_libre	Homme	50	4:09:2	18	 France	 Monaco	1967-07-4
+207	400_mètres_nage_libre	Homme	50	4:08:8	17	 États-Unis	 Santa Clara	1967-07-7
+208	400_mètres_nage_libre	Homme	50	4:08:2		 États-Unis	 Tokyo	1967-08-28
+209	400_mètres_nage_libre	Homme	50	4:07:7	18	 États-Unis	 Haywood	1968-06-23
+210	400_mètres_nage_libre	Homme	50	4:06:5		 Canada	 Lincoln	1968-08-1
+211	400_mètres_nage_libre	Homme	50	4:04:0		 Allemagne de l'Ouest	 Louisville	1969-08-14
+212	400_mètres_nage_libre	Homme	50	4:02:8	18	 États-Unis	 Los Angeles	1970-08-20
+213	400_mètres_nage_libre	Homme	50	4:02:6	19	 Suède	 Barcelone	1970-09-7
+214	400_mètres_nage_libre	Homme	50	4:02:1		 États-Unis	 Houston	1971-08-25
+215	400_mètres_nage_libre	Homme	50	4:01:74		 Australie	 Brisbane	1972-02-12
+216	400_mètres_nage_libre	Homme	50	4:00:11		 États-Unis	 Chicago	1972-08-4
+217	400_mètres_nage_libre	Homme	50	3:58:18		 États-Unis	 Belgrade	1973-09-6
+218	400_mètres_nage_libre	Homme	50	3:56:69		 États-Unis	 Concord	1974-08-22
+219	400_mètres_nage_libre	Homme	50	3:54:69		 États-Unis	 Concord	1974-08-22
+220	400_mètres_nage_libre	Homme	50	3:53:95		 États-Unis	 Long Beach	1975-06-19
+221	400_mètres_nage_libre	Homme	50	3:53:31		 États-Unis	 Kansas City	1975-08-20
+222	400_mètres_nage_libre	Homme	50	3:53:08		 États-Unis	 Long Beach	1976-06-18
+223	400_mètres_nage_libre	Homme	50	3:51:93		 États-Unis	 Montréal	1976-07-22
+224	400_mètres_nage_libre	Homme	50	3:51:56		 États-Unis	 Berlin-Est	1977-08-27
+225	400_mètres_nage_libre	Homme	50	3:51:41	19	 Union soviétique	 Potsdam	1979-04-6
+226	400_mètres_nage_libre	Homme	50	3:51:40	19	 Union soviétique	 Moscou	1979-08-19
+227	400_mètres_nage_libre	Homme	50	3:51:20	20	 Union soviétique	 Potsdam	1980-02-29
+228	400_mètres_nage_libre	Homme	50	3:50:49		 Canada	 Etobicoke	1980-07-15
+229	400_mètres_nage_libre	Homme	50	3:49:57	23	 Union soviétique	 Moscou	1982-03-12
+230	400_mètres_nage_libre	Homme	50	3:49:57	23	 Union soviétique	 Kiev	1982-07-19
+231	400_mètres_nage_libre	Homme	50	3:48:32	23	 Union soviétique	 Moscou	1983-02-19
+232	400_mètres_nage_libre	Homme	50	3:47:80	21	 Allemagne de l'Ouest	 Remscheid	1985-06-27
+233	400_mètres_nage_libre	Homme	50	3:47:38		 Pologne	 Orlando	1988-03-25
+234	400_mètres_nage_libre	Homme	50	3:46:95	21	 Allemagne de l'Est	 Séoul	1988-09-23
+235	400_mètres_nage_libre	Homme	50	3:46:47	19	 Australie	 Canberra	1992-04-3
+236	400_mètres_nage_libre	Homme	50	3:45:00	19	 Communauté des États indépendants	 Barcelone	1992-07-29
+237	400_mètres_nage_libre	Homme	50	3:43:80	21	 Australie	 Rome	1994-09-9
+238	400_mètres_nage_libre	Homme	50	3:41:83	17	 Australie	 Sydney	1999-08-22
+239	400_mètres_nage_libre	Homme	50	3:41:33	18	 Australie	 Sydney	2000-05-13
+240	400_mètres_nage_libre	Homme	50	3:40:59	18	 Australie	 Sydney	2000-09-16
+241	400_mètres_nage_libre	Homme	50	3:40:17	19	 Australie	 Fukuoka	2001-07-22
+242	400_mètres_nage_libre	Homme	50	3:40:08	20	 Australie	 Manchester	2002-07-30
+243	400_mètres_nage_libre	Homme	50	3:40:07	23	 Allemagne	 Rome	2009-07-26
+244	400_mètres_nage_libre	Homme	25	3:45:10		 Union soviétique		
+245	400_mètres_nage_libre	Homme	25	3:44:75	16	 Allemagne de l'Est	 Rostock	1981-01-01
+246	400_mètres_nage_libre	Homme	25	3:42:96	21	 Union soviétique		1981-01-01
+247	400_mètres_nage_libre	Homme	25	3:40:46	20	 Nouvelle-Zélande	 Sheffield	1995-11-2
+248	400_mètres_nage_libre	Homme	25	3:39:32	16	 Australie	 Sydney	1998-09-25
+249	400_mètres_nage_libre	Homme	25	3:35:01	19	 Australie	 Hong Kong	1999-04-2
+250	400_mètres_nage_libre	Homme	25	3:34:58	22	 Australie	 Sydney	2002-07-18
+251	400_mètres_nage_libre	Homme	25	3:32:77	23	 Allemagne	 Berlin	2009-11-14
+252	400_mètres_nage_libre	Homme	25	3:32:25	20	 France	 Angers	2012-11-15
+253	1500_mètres_nage_libre	Homme	50	22:48:4	23	 Royaume-Uni	 Londres	1908-07-25
+254	1500_mètres_nage_libre	Homme	50	22:23:0	19	 Canada	 Stockholm	1912-07-6
+255	1500_mètres_nage_libre	Homme	50	22:00:0	19	 Canada	 Stockholm	1912-07-10
+256	1500_mètres_nage_libre	Homme	50	21:35:3	22	 Suède	 Göteborg	1923-07-8
+257	1500_mètres_nage_libre	Homme	50	21:15:0	23	 Suède	 Sydney	1924-01-30
+258	1500_mètres_nage_libre	Homme	50	21:11:4	23	 Suède	 Paris	1924-07-13
+259	1500_mètres_nage_libre	Homme	50	20:06:6		 Australie	 Paris	1924-07-15
+260	1500_mètres_nage_libre	Homme	50	20:04:4	25	 Suède	 Budapest	1926-08-18
+261	1500_mètres_nage_libre	Homme	50	19:07:2	26	 Suède	 Bologne	1927-09-2
+262	1500_mètres_nage_libre	Homme	50	18:58:8		 Japon	 Tokyo	1938-08-10
+263	1500_mètres_nage_libre	Homme	50	18:35:7	21	 Japon	 Los Angeles	1949-08-16
+264	1500_mètres_nage_libre	Homme	50	18:19:0		 Japon	 Los Angeles	1949-08-16
+265	1500_mètres_nage_libre	Homme	50	18:05:9		 États-Unis	 New Haven	1956-05-3
+266	1500_mètres_nage_libre	Homme	50	17:59:5		 Australie	 Melbourne	1956-10-30
+267	1500_mètres_nage_libre	Homme	50	17:52:9		 États-Unis	 Melbourne	1956-12-5
+268	1500_mètres_nage_libre	Homme	50	17:28:7		 Australie	 Melbourne	1958-02-22
+269	1500_mètres_nage_libre	Homme	50	17:11:0		 Australie	 Sydney	1960-02-27
+270	1500_mètres_nage_libre	Homme	50	17:05:5		 États-Unis	 Tokyo	1963-08-17
+271	1500_mètres_nage_libre	Homme	50	17:01:8		 Australie	 Los Altos	1964-08-2
+272	1500_mètres_nage_libre	Homme	50	16:58:7		 États-Unis	 New York	1964-09-2
+273	1500_mètres_nage_libre	Homme	50	16:58:6		 États-Unis	 Maumee	1965-08-15
+274	1500_mètres_nage_libre	Homme	50	16:41:6		 États-Unis	 Lincoln	1966-08-21
+275	1500_mètres_nage_libre	Homme	50	16:34:1		 États-Unis	 Oak Park	1967-08-13
+276	1500_mètres_nage_libre	Homme	50	16:28:1		 Mexique	 Santa Clara	1968-07-7
+277	1500_mètres_nage_libre	Homme	50	16:08:5		 États-Unis	 Long Beach	1968-09-3
+278	1500_mètres_nage_libre	Homme	50	16:04:5		 États-Unis	 Louisville	1969-08-17
+279	1500_mètres_nage_libre	Homme	50	15:57:1		 États-Unis	 Los Angeles	1970-08-23
+280	1500_mètres_nage_libre	Homme	50	15:52:91		 États-Unis	 Chicago	1972-08-6
+281	1500_mètres_nage_libre	Homme	50	15:52:58		 États-Unis	 Munich	1972-09-4
+282	1500_mètres_nage_libre	Homme	50	15:37:80	15	 Australie	 Brisbane	1973-08-5
+283	1500_mètres_nage_libre	Homme	50	15:31:85	15	 Australie	 Belgrade	1973-09-9
+284	1500_mètres_nage_libre	Homme	50	15:31:75		 États-Unis	 Concord	1974-08-25
+285	1500_mètres_nage_libre	Homme	50	15:27:79	17	 Australie	 Christchurch	1975-01-25
+286	1500_mètres_nage_libre	Homme	50	15:20:91		 États-Unis	 Long Beach	1975-06-21
+287	1500_mètres_nage_libre	Homme	50	15:10:89	17	 Australie	 Sydney	1976-02-27
+288	1500_mètres_nage_libre	Homme	50	15:06:66	17	 États-Unis	 Long Beach	1976-06-21
+289	1500_mètres_nage_libre	Homme	50	15:02:40	17	 États-Unis	 Montréal	1976-07-20
+290	1500_mètres_nage_libre	Homme	50	14:58:27	20	 Union soviétique	 Moscou	1980-07-22
+291	1500_mètres_nage_libre	Homme	50	14:56:35	22	 Union soviétique	 Moscou	1982-03-13
+292	1500_mètres_nage_libre	Homme	50	14:54:76	23	 Union soviétique	 Moscou	1983-02-22
+293	1500_mètres_nage_libre	Homme	50	14:53:59	19	 Australie	 Adélaïde	1990-12-13
+294	1500_mètres_nage_libre	Homme	50	14:50:36	21	 Allemagne	 Perth	1991-01-13
+295	1500_mètres_nage_libre	Homme	50	14:48:40	19	 Australie	 Canberra	1992-04-5
+296	1500_mètres_nage_libre	Homme	50	14:43:48	19	 Australie	 Barcelone	1992-07-31
+297	1500_mètres_nage_libre	Homme	50	14:41:66	21	 Australie	 Victoria	1994-08-24
+298	1500_mètres_nage_libre	Homme	50	14:34:56	21	 Australie	 Fukuoka	2001-07-29
+299	1500_mètres_nage_libre	Homme	50	14:34:14	20	 Chine	 Shanghai	2011-07-31
+300	1500_mètres_nage_libre	Homme	50	14:31:02	21	 Chine	 Londres	2012-08-4
+301	1500_mètres_nage_libre	Homme	25	14:37:60	22	 Union soviétique	Göteborg	1982-12-19
+302	1500_mètres_nage_libre	Homme	25	14:32:40	19	 Australie	 Brisbane	1992-02-2
+303	1500_mètres_nage_libre	Homme	25	14:26:52	20	 Australie	 Auckland	1993-07-14
+304	1500_mètres_nage_libre	Homme	25	14:19:55	18	 Australie	 Perth	1998-09-27
+305	1500_mètres_nage_libre	Homme	25	14:10:10	21	 Australie	 Perth	2001-08-7
+306	1500_mètres_nage_libre	Homme	25	14:8:06	21	 Italie	 Netanya	2015-12-4
+307	50_mètres_dos	Homme	50	25:74	21	 Allemagne de l'Est	 Berlin-Est	1985-12-15
+308	50_mètres_dos	Homme	50	25:23	22	 États-Unis	 Séoul	1988-09-24
+309	50_mètres_dos	Homme	50	25:13	23	 États-Unis	 Édimbourg	1993-04-15
+310	50_mètres_dos	Homme	50	24:99	24	 États-Unis	 Sydney	1999-08-28
+311	50_mètres_dos	Homme	50	24:80	26	 Allemagne	 Barcelone	2003-07-27
+312	50_mètres_dos	Homme	50	24:47	22	 Royaume-Uni	 Sheffield	2008-04-2
+313	50_mètres_dos	Homme	50	24:33	28	 États-Unis	 Eindhoven	2008-12-5
+314	50_mètres_dos	Homme	50	24:08	24	 Royaume-Uni	 Rome	2009-08-1
+315	50_mètres_dos	Homme	50	24:04	24	 Royaume-Uni	 Rome	2009-08-2
+316	50_mètres_dos	Homme	50	24:00	18	 Russie	 Glasgow	2018-08-4
+317	50_mètres_dos	Homme	50	23:80	21	 Russie	 Budapest	2021-05-18
+318	50_mètres_dos	Homme	25	24:66	23	 Russie	 Gênes	1994-03-13
+319	50_mètres_dos	Homme	25	24:60	24	 France	 Paris	1994-03-26
+320	50_mètres_dos	Homme	25	24:37	25	 États-Unis	 Sheffield	1995-02-12
+321	50_mètres_dos	Homme	25	24:25		 Canada	 Saint Catharines	1997-02-28
+322	50_mètres_dos	Homme	25	24:13	21	 Allemagne	 Sheffield	1998-12-11
+323	50_mètres_dos	Homme	25	24:13		 Australie	 Canberra	2000-09-2
+324	50_mètres_dos	Homme	25	24:12		 États-Unis	 Washington	1999-11-18
+325	50_mètres_dos	Homme	25	24:11		 Australie	 Hobart	2000-01-14
+326	50_mètres_dos	Homme	25	24:04	24	 États-Unis	 Athènes	2000-03-16
+327	50_mètres_dos	Homme	25	23:42	24	 États-Unis	 Athènes	2000-03-16
+328	50_mètres_dos	Homme	25	23:31		 Australie	 Melbourne	2002-09-2
+329	50_mètres_dos	Homme	25	23:23	25	 Allemagne	 Goslar	2002-11-30
+330	50_mètres_dos	Homme	25	23:27	27	 Allemagne	 Vienne	2004-12-10
+331	50_mètres_dos	Homme	25	23:24	20	 Australie	 Sydney	2008-10-26
+332	50_mètres_dos	Homme	25	23:05	26	 États-Unis	 Stockholm	2008-11-12
+333	50_mètres_dos	Homme	25	22:87	28	 États-Unis	 Berlin	2008-11-16
+334	50_mètres_dos	Homme	25	22:75	27	 États-Unis	 Durban	2009-10-17
+335	50_mètres_dos	Homme	25	22:73	27	 États-Unis	 Stockholm	2009-11-11
+336	50_mètres_dos	Homme	25	22:61	27	 États-Unis	 Singapour	2009-11-22
+337	50_mètres_dos	Homme	25	22:22	24	 France	 Doha	2014-12-6
+338	100_mètres_dos	Homme	50	1:24:6		 Empire allemand	 Londres	1908-07-17
+339	100_mètres_dos	Homme	50	1:20:8		 Belgique	 Schaerbeek	1910-10-2
+340	100_mètres_dos	Homme	50	1:18:8		 Hongrie	 Budapest	1911-07-17
+341	100_mètres_dos	Homme	50	1:18:4		 Empire allemand	 Belgique Bruxelles	1912-04-6
+342	100_mètres_dos	Homme	50	1:15:6		 Empire allemand	 Magdebourg	1912-04-29
+343	100_mètres_dos	Homme	50	1:14:8		 États-Unis	 Anvers	1920-08-22
+344	100_mètres_dos	Homme	50	1:12:6		 États-Unis	 Honolulu	1922-10-17
+345	100_mètres_dos	Homme	50	1:12:4		 États-Unis	 Honolulu	1924-04-13
+346	100_mètres_dos	Homme	50	1:11:2		 États-Unis	 Berlin	1926-06-20
+347	100_mètres_dos	Homme	50	1:09:0		 États-Unis	 Détroit	1928-06-23
+348	100_mètres_dos	Homme	50	1:08:2		 États-Unis	 Amsterdam	1928-08-9
+349	100_mètres_dos	Homme	50	1:07:0		 États-Unis	 Berlin	1935-10-20
+350	100_mètres_dos	Homme	50	1:06:2		 États-Unis	 Krefeld	1935-10-22
+351	100_mètres_dos	Homme	50	1:04:9		 États-Unis	 Breslau	1935-11-9
+352	100_mètres_dos	Homme	50	1:03:6		 États-Unis	 New Haven	1949-02-4
+353	100_mètres_dos	Homme	50	1:03:3	17	 France	 Troyes	1952-12-26
+354	100_mètres_dos	Homme	50	1:02:8		 États-Unis	 New Haven	1954-04-1
+355	100_mètres_dos	Homme	50	1:02:2		 Australie	 Melbourne	1956-12-6
+356	100_mètres_dos	Homme	50	1:01:5		 Australie	 Melbourne	1958-02-15
+357	100_mètres_dos	Homme	50	1:01:3		 États-Unis	 Los Angeles	1961-08-19
+358	100_mètres_dos	Homme	50	1:01:0		 États-Unis	 Cuyahoga Falls	1962-08-11
+359	100_mètres_dos	Homme	50	1:00:9		 États-Unis	 Cuyahoga Falls	1962-08-12
+360	100_mètres_dos	Homme	50	1:00:8		 Allemagne	 Dortmund	1964-08-28
+361	100_mètres_dos	Homme	50	1:00:0		 États-Unis	 New York	1964-09-3
+362	100_mètres_dos	Homme	50	59:6		 États-Unis	 Tokyo	1964-10-16
+363	100_mètres_dos	Homme	50	59:5		 États-Unis	 Tokyo	1967-08-28
+364	100_mètres_dos	Homme	50	59:3		 États-Unis	 Tokyo	1967-08-28
+365	100_mètres_dos	Homme	50	59:1		 États-Unis	 Tokyo	1967-08-31
+366	100_mètres_dos	Homme	50	58:4		 Allemagne de l'Est	 Leipzig	1967-09-21
+367	100_mètres_dos	Homme	50	58:0		 Allemagne de l'Est	 Mexico	1968-10-26
+368	100_mètres_dos	Homme	50	57:8		 Allemagne de l'Est	 Wurzbourg	1969-08-23
+369	100_mètres_dos	Homme	50	56:9		 Allemagne de l'Est	 Barcelone	1970-09-8
+370	100_mètres_dos	Homme	50	56:7		 Allemagne de l'Est	 Leipzig	1971-09-4
+371	100_mètres_dos	Homme	50	56:3		 Allemagne de l'Est	 Munich	1972-04-8
+372	100_mètres_dos	Homme	50	56:30		 Allemagne de l'Est	 Munich	1972-09-4
+373	100_mètres_dos	Homme	50	56:19		 États-Unis	 Montréal	1976-07-18
+374	100_mètres_dos	Homme	50	55:49		 États-Unis	 Montréal	1976-07-19
+375	100_mètres_dos	Homme	50	55:44		 États-Unis	 Clovis	1983-08-6
+376	100_mètres_dos	Homme	50	55:38		 États-Unis	 Clovis	1983-08-6
+377	100_mètres_dos	Homme	50	55:19		 États-Unis	 Caracas	1983-08-21
+378	100_mètres_dos	Homme	50	55:17		 Union soviétique	 Tallinn	1988-03-15
+379	100_mètres_dos	Homme	50	55:16		 Union soviétique	 Tallinn	1988-03-16
+380	100_mètres_dos	Homme	50	55:00		 Union soviétique	 Moscou	1988-07-16
+381	100_mètres_dos	Homme	50	54:95		 États-Unis	 Austin	1988-08-13
+382	100_mètres_dos	Homme	50	54:91		 États-Unis	 Austin	1988-08-13
+383	100_mètres_dos	Homme	50	54:51		 États-Unis	 Séoul	1988-09-24
+384	100_mètres_dos	Homme	50	53:93	21	 États-Unis	 Edmonton	1991-08-25
+385	100_mètres_dos	Homme	50	53:86		 États-Unis	 Barcelone	1992-07-31
+386	100_mètres_dos	Homme	50	53:60		 États-Unis	 Sydney	1999-08-24
+387	100_mètres_dos	Homme	50	53:45	21	 États-Unis	 Athènes	2004-08-21
+388	100_mètres_dos	Homme	50	53:17	22	 États-Unis	 Indianapolis	2005-04-2
+389	100_mètres_dos	Homme	50	52:98	24	 États-Unis	 Melbourne	2007-03-27
+390	100_mètres_dos	Homme	50	52:89	25	 États-Unis	 Omaha	2008-07-1
+391	100_mètres_dos	Homme	50	52:54	25	 États-Unis	 Pékin	2008-08-12
+392	100_mètres_dos	Homme	50	52:38	23	 Espagne	 Pescara	2009-07-1
+393	100_mètres_dos	Homme	50	51:94	26	 États-Unis	 Indianapolis	2009-07-8
+394	100_mètres_dos	Homme	50	51:85	21	 États-Unis	 Rio de Janeiro	2016-08-13
+395	100_mètres_dos	Homme	25	1:20:8		 Belgique	 Schaerbeek	1910-01-01
+396	100_mètres_dos	Homme	25	1:18:4		 Allemagne	 Bruxelles	1912-04-6
+397	100_mètres_dos	Homme	25	1:11:4		 États-Unis	 Honolulu	1926-06-19
+398	100_mètres_dos	Homme	25	1:10:2		 États-Unis	 New Haven	1927-03-22
+399	100_mètres_dos	Homme	25	1:07:4		 États-Unis	 Honolulu	1934-07-23
+400	100_mètres_dos	Homme	25	1:07:0		 États-Unis	 Berlin	1935-10-20
+401	100_mètres_dos	Homme	25	1:04:8		 États-Unis	 Détroit	1936-01-18
+402	100_mètres_dos	Homme	25	1:04:0		 États-Unis	 New Haven	1948-06-23
+403	100_mètres_dos	Homme	25	1:03:3		 France	 Troyes	1952-12-26
+404	100_mètres_dos	Homme	25	1:02:1		 France	 Troyes	1955-02-27
+405	100_mètres_dos	Homme	25	52:71		 Canada	 Bonn	1991-03-16
+406	100_mètres_dos	Homme	25	52:58		 Canada	 Sheffield	1991-03-29
+407	100_mètres_dos	Homme	25	52:52		 Canada	 Winnipeg	1992-02-20
+408	100_mètres_dos	Homme	25	52:50		 Canada	 Winnipeg	1992-02-22
+409	100_mètres_dos	Homme	25	51:43		 États-Unis	 Sheffield	1993-04-12
+410	100_mètres_dos	Homme	25	51:28		 États-Unis	 Berlin	2000-02-5
+411	100_mètres_dos	Homme	25	50:75		 États-Unis	 Athènes	2000-03-19
+412	100_mètres_dos	Homme	25	50:58		 Allemagne	 Melbourne	2002-12-8
+413	100_mètres_dos	Homme	25	50:32	22	 États-Unis	 East Meadow	2004-03-26
+414	100_mètres_dos	Homme	25	49:99	22	 États-Unis	 Shanghai	2006-04-9
+415	100_mètres_dos	Homme	25	49:94	26	 États-Unis	 Stockholm	2008-11-11
+416	100_mètres_dos	Homme	25	49:63	26	 États-Unis	 Berlin	2008-11-15
+417	100_mètres_dos	Homme	25	49:32	25	 Russie	 Rijeka	2008-12-14
+418	100_mètres_dos	Homme	25	49:20	22	 Espagne	 Madrid	2008-12-21
+419	100_mètres_dos	Homme	25	49:17	25	 Russie	 Istanbul	2009-12-12
+420	100_mètres_dos	Homme	25	48:97	2526	 Russie Russie	 Istanbul	2009-12-13
+421	100_mètres_dos	Homme	25	48:94	23	 États-Unis	 Manchester	2009-12-18
+422	100_mètres_dos	Homme	25	48:92	30	 États-Unis	 Indianapolis	2015-12-17
+423	200_mètres_dos	Homme	50	3:04:4		 Empire allemand	 Berlin Charlottenburg	1909-06-27
+424	200_mètres_dos	Homme	50	2:59:8		 Empire allemand	 Magdebourg	1910-01-3
+425	200_mètres_dos	Homme	50	2:56:4		 Belgique	 Schaerbeek	1910-10-18
+426	200_mètres_dos	Homme	50	2:50:6		 Empire allemand	 Magdebourg	1911-03-11
+427	200_mètres_dos	Homme	50	2:48:4		 Empire allemand	 Magdebourg	1912-04-3
+428	200_mètres_dos	Homme	50	2:47:1		 États-Unis	 Brême	1926-06-24
+429	200_mètres_dos	Homme	50	2:44:9		 États-Unis	 Nuremberg	1926-07-11
+430	200_mètres_dos	Homme	50	2:38:8		 États-Unis	 Magdebourg	1926-07-13
+431	200_mètres_dos	Homme	50	2:37:8		 Japon	 Tamagawa[pas clair]	1928-10-14
+432	200_mètres_dos	Homme	50	2:32:2	20	 États-Unis	 New Haven	1930-06-16
+433	200_mètres_dos	Homme	50	2:27:8		 États-Unis	 Honolulu	1934-08-30
+434	200_mètres_dos	Homme	50	2:24:0	17	 États-Unis	 Chicago	1935-04-11
+435	200_mètres_dos	Homme	50	2:23:0	23	 États-Unis	 Honolulu	1941-05-23
+436	200_mètres_dos	Homme	50	2:22:9		 États-Unis	 Détroit	1943-05-18
+437	200_mètres_dos	Homme	50	2:19:3	26	 États-Unis	 Annapolis	1944-03-4
+438	200_mètres_dos	Homme	50	2:18:5	21	 États-Unis	 New Haven	1949-05-4
+439	200_mètres_dos	Homme	50	2:18:3	18	 France	 Alger	1953-06-26
+440	200_mètres_dos	Homme	50	2:18:8		 Australie	 Sydney	1958-01-15
+441	200_mètres_dos	Homme	50	2:18:4		 Australie	 Melbourne	1958-02-18
+442	200_mètres_dos	Homme	50	2:17:9		 États-Unis	 Los Altos	1959-07-12
+443	200_mètres_dos	Homme	50	2:17:8		 États-Unis	 Osaka	1959-07-25
+444	200_mètres_dos	Homme	50	2:17:6		 États-Unis	 Los Angeles	1960-06-26
+445	200_mètres_dos	Homme	50	2:16:0		 États-Unis	 Toledo	1960-07-24
+446	200_mètres_dos	Homme	50	2:13:2		 États-Unis	 Chicago	1961-02-7
+447	200_mètres_dos	Homme	50	2:11:5		 États-Unis	 Los Angeles	1961-08-20
+448	200_mètres_dos	Homme	50	2:10:9		 États-Unis	 Cuyahoga Falls	1962-08-10
+449	200_mètres_dos	Homme	50	2:10:3	22	 États-Unis	 Tokyo	1964-10-13
+450	200_mètres_dos	Homme	50	2:09:4	20	 États-Unis	 Tokyo	1967-08-29
+451	200_mètres_dos	Homme	50	2:07:9	17	 Allemagne de l'Est	 Leipzig	1967-11-8
+452	200_mètres_dos	Homme	50	2:07:5	18	 Allemagne de l'Est	 Leipzig	1968-08-14
+453	200_mètres_dos	Homme	50	2:07:4	19	 Allemagne de l'Est	 Santa Clara	1969-07-12
+454	200_mètres_dos	Homme	50	2:06:6	18	 États-Unis	 Louisville	1969-08-14
+455	200_mètres_dos	Homme	50	2:06:4	19	 Allemagne de l'Est	 Berlin	1969-08-29
+456	200_mètres_dos	Homme	50	2:06:3		 États-Unis	 Los Angeles	1970-08-20
+457	200_mètres_dos	Homme	50	2:06:1	20	 Allemagne de l'Est	 Barcelone	1970-09-11
+458	200_mètres_dos	Homme	50	2:05:6	21	 Allemagne de l'Est	 Leipzig	1971-09-3
+459	200_mètres_dos	Homme	50	2:02:8	22	 Allemagne de l'Est	 Leipzig	1972-07-10
+460	200_mètres_dos	Homme	50	2:02:82	22	 Allemagne de l'Est	 Munich	1972-09-2
+461	200_mètres_dos	Homme	50	2:01:87	23	 Allemagne de l'Est	 Belgrade	1973-09-6
+462	200_mètres_dos	Homme	50	2:00:64	20	 États-Unis	 Long Beach	1976-06-19
+463	200_mètres_dos	Homme	50	1:59:19	20	 États-Unis	 Montréal	1976-07-24
+464	200_mètres_dos	Homme	50	1:58:93	20	 États-Unis	 Clovis	1983-08-3
+465	200_mètres_dos	Homme	50	1:58:86	21	 États-Unis	 Indianapolis	1984-06-27
+466	200_mètres_dos	Homme	50	1:58:41		 Union soviétique	 Moscou	1984-08-21
+467	200_mètres_dos	Homme	50	1:58:14	18	 Union soviétique	 Erfurt	1985-03-3
+468	200_mètres_dos	Homme	50	1:57:30	22	 Espagne	 Fort Lauderdale	1991-08-13
+469	200_mètres_dos	Homme	50	1:56:57	22	 Espagne	 Tuscaloosa	1991-11-23
+470	200_mètres_dos	Homme	50	1:55:87	24	 États-Unis	 Sydney	1999-08-27
+471	200_mètres_dos	Homme	50	1:55:15	19	 États-Unis	 Indianapolis	2002-03-20
+472	200_mètres_dos	Homme	50	1:54:74	21	 États-Unis	 Long Beach	2004-07-12
+473	200_mètres_dos	Homme	50	1:54:66	22	 États-Unis	 Montréal	2005-07-29
+474	200_mètres_dos	Homme	50	1:54:44	23	 États-Unis	 Victoria	2006-08-19
+475	200_mètres_dos	Homme	50	1:54:32	23	 États-Unis	 Melbourne	2007-03-30
+476	200_mètres_dos	Homme	50	1:54:32	25	 États-Unis	 Omaha	2008-07-4
+477	200_mètres_dos	Homme	50	1:53:94	24	 États-Unis	 Pékin	2008-08-15
+478	200_mètres_dos	Homme	50	1:52:86	19	 Japon	 Canberra	2008-05-10
+479	200_mètres_dos	Homme	50	1:53:08	26	 États-Unis	 Indianapolis	2009-07-11
+480	200_mètres_dos	Homme	50	1:51:92	26	 États-Unis	 Rome	2009-07-31
+481	200_mètres_dos	Homme	25	1:52:51	22	 Espagne	 Gainesville	1991-04-10
+482	200_mètres_dos	Homme	25	1:52:47	24	 États-Unis	 Washington	1999-11-18
+483	200_mètres_dos	Homme	25	1:52:43	25	 États-Unis	 Berlin	2000-02-6
+484	200_mètres_dos	Homme	25	1:51:62	24	 Australie	 Melbourne	2000-10-13
+485	200_mètres_dos	Homme	25	1:51:62	25	 Croatie	 Berlin	2001-01-21
+486	200_mètres_dos	Homme	25	1:51:17	19	 États-Unis	 Moscou	2002-04-7
+487	200_mètres_dos	Homme	25	1:50:64	21	 États-Unis	 East Meadow	2004-03-27
+488	200_mètres_dos	Homme	25	1:50:52	21	 États-Unis	 Indianapolis	2004-10-11
+489	200_mètres_dos	Homme	25	1:50:43	23	 Autriche	 Trieste	2005-12-18
+490	200_mètres_dos	Homme	25	1:49:05	22	 États-Unis	 Shanghai	2006-04-9
+491	200_mètres_dos	Homme	25	1:47:84	25	 Autriche	 Manchester	2008-04-13
+492	200_mètres_dos	Homme	25	1:47:08	27	 Afrique du Sud	 Moscou	2009-11-7
+493	200_mètres_dos	Homme	25	1:46:11	25	 Russie	 Berlin	2009-11-15
+494	200_mètres_dos	Homme	25	1:45:63	22	 Australie	 Sydney	2015-11-27
+495	50_mètres_brasse	Homme	50	27:49		 États-Unis	 Austin	2001-03-29
+496	50_mètres_brasse	Homme	50	27:39	21	 États-Unis	 Austin	2001-03-31
+497	50_mètres_brasse	Homme	50	27:18	23	 Ukraine	 Berlin	2002-08-2
+498	50_mètres_brasse	Homme	50	27:06	21	 Afrique du Sud	 Durban	2009-04-18
+499	50_mètres_brasse	Homme	50	26:89	22	 Brésil	 Rio de Janeiro	2009-05-8
+500	50_mètres_brasse	Homme	50	26:74	21	 Afrique du Sud	 Rome	2009-07-28
+501	50_mètres_brasse	Homme	50	26:67	21	 Afrique du Sud	 Rome	2009-07-29
+502	50_mètres_brasse	Homme	50	26:62	20	 Royaume-Uni	 Berlin	2014-08-22
+503	50_mètres_brasse	Homme	50	26:62	27	 Afrique du Sud	 Kazan	2015-08-4
+504	50_mètres_brasse	Homme	50	26:42	20	 Royaume-Uni	 Kazan	2015-08-4
+505	50_mètres_brasse	Homme	50	26:10	22	 Royaume-Uni	 Budapest	2017-07-25
+506	50_mètres_brasse	Homme	50	25:95	22	 Royaume-Uni	 Budapest	2017-07-25
+507	50_mètres_brasse	Homme	25	27:00	25	 Allemagne	 Gelsenkirchen	1995-02-18
+508	50_mètres_brasse	Homme	25	26:97	27	 Allemagne	 Paris	1997-02-8
+509	50_mètres_brasse	Homme	25	26:97	28	 Allemagne	 Sydney	1998-01-21
+510	50_mètres_brasse	Homme	25	26:97	28	 Allemagne	 Fulda	1998-11-28
+511	50_mètres_brasse	Homme	25	26:70	28	 Allemagne	 Sheffield	1998-12-11
+512	50_mètres_brasse	Homme	25	26:28	22	 États-Unis	 Stockholm	2002-01-22
+513	50_mètres_brasse	Homme	25	26:20	23	 Ukraine	 Berlin	2002-01-26
+514	50_mètres_brasse	Homme	25	26:17	27	 Ukraine	 Berlin	2006-01-21
+515	50_mètres_brasse	Homme	25	26:08	20	 Afrique du Sud	 Moscou	2008-11-8
+516	50_mètres_brasse	Homme	25	25:94	20	 Afrique du Sud	 Stockholm	2008-11-11
+517	50_mètres_brasse	Homme	25	25:43	21	 Afrique du Sud	 Pietermaritzburg	2009-08-8
+518	50_mètres_brasse	Homme	25	25:25	21	 Afrique du Sud	 Berlin	2009-11-14
+519	100_mètres_brasse	Homme	50	1:11:4		 Union soviétique	 Moscou	1961-05-2
+520	100_mètres_brasse	Homme	50	1:11:1	20	 États-Unis	 Chicago	1961-07-2
+521	100_mètres_brasse	Homme	50	1:10:8		 Allemagne de l'Est	 Berlin-Est	1961-07-5
+522	100_mètres_brasse	Homme	50	1:10:7	20	 États-Unis	 Tokyo	1961-07-28
+523	100_mètres_brasse	Homme	50	1:10:0	20	 États-Unis	 Tokyo	1961-07-30
+524	100_mètres_brasse	Homme	50	1:09:5	20	 États-Unis	 Osaka	1961-08-3
+525	100_mètres_brasse	Homme	50	1:07:8	20	 États-Unis	 Los Angeles	1961-08-20
+526	100_mètres_brasse	Homme	50	1:07:5	20	 États-Unis	 Los Angeles	1961-08-20
+527	100_mètres_brasse	Homme	50	1:07:4		 Union soviétique	 Bakou	1964-03-26
+528	100_mètres_brasse	Homme	50	1:06:9		 Union soviétique	 Moscou	1964-09-3
+529	100_mètres_brasse	Homme	50	1:06:7		 Union soviétique	 Leningrad	1967-11-8
+530	100_mètres_brasse	Homme	50	1:06:4	18	 Brésil	 Rio de Janeiro	1968-02-19
+531	100_mètres_brasse	Homme	50	1:06:2	19	 Union soviétique	 Moscou	1968-04-18
+532	100_mètres_brasse	Homme	50	1:05:8	20	 Union soviétique	 Magdebourg	1969-04-20
+533	100_mètres_brasse	Homme	50	1:05:68	28	 États-Unis	 Munich	1972-08-29
+534	100_mètres_brasse	Homme	50	1:05:13	21	 Japon	 Munich	1972-08-29
+535	100_mètres_brasse	Homme	50	1:04:94	22	 Japon	 Munich	1973-09-4
+536	100_mètres_brasse	Homme	50	1:04:35	29	 États-Unis	 Belgrade	1973-09-4
+537	100_mètres_brasse	Homme	50	1:04:02	29	 États-Unis	 Belgrade	1973-09-4
+538	100_mètres_brasse	Homme	50	1:03:88	30	 États-Unis	 Concord	1974-08-31
+539	100_mètres_brasse	Homme	50	1:03:62	32	 États-Unis	 Montréal	1976-07-19
+540	100_mètres_brasse	Homme	50	1:03:11	32	 États-Unis	 Montréal	1976-07-20
+541	100_mètres_brasse	Homme	50	1:02:86	18	 Allemagne de l'Ouest	 Jönköping	1977-08-18
+542	100_mètres_brasse	Homme	50	1:02:62	21	 États-Unis	 Mission Viejo	1982-07-19
+543	100_mètres_brasse	Homme	50	1:02:53	21	 États-Unis	 Indianapolis	1982-08-21
+544	100_mètres_brasse	Homme	50	1:02:34	22	 États-Unis	 Clovis	1983-08-6
+545	100_mètres_brasse	Homme	50	1:02:28	22	 États-Unis	 Caracas	1983-08-17
+546	100_mètres_brasse	Homme	50	1:02:13	20	 États-Unis	 Indianapolis	1984-06-25
+547	100_mètres_brasse	Homme	50	1:01:65	23	 États-Unis	 Los Angeles	1984-07-29
+548	100_mètres_brasse	Homme	50	1:01:49	25	 Royaume-Uni	 Bonn	1989-08-15
+549	100_mètres_brasse	Homme	50	1:01:45	19	 Hongrie	 Perth	1991-01-7
+550	100_mètres_brasse	Homme	50	1:01:29	19	 Hongrie	 Athènes	1991-08-20
+551	100_mètres_brasse	Homme	50	1:00:95	25	 Hongrie	 Sheffield	1993-08-3
+552	100_mètres_brasse	Homme	50	1:00:60	23	 Belgique	 Atlanta	1996-07-20
+553	100_mètres_brasse	Homme	50	1:00:36	20	 Russie	 Moscou	2000-06-15
+554	100_mètres_brasse	Homme	50	1:00:29	21	 États-Unis	 Austin	2001-03-28
+555	100_mètres_brasse	Homme	50	1:00:26	21	 Russie	 Moscou	2001-06-28
+556	100_mètres_brasse	Homme	50	59:97	21	 Russie	 Moscou	2001-06-29
+557	100_mètres_brasse	Homme	50	59:94	21	 Russie	 Fukuoka	2001-07-23
+558	100_mètres_brasse	Homme	50	59:78	21	 Japon	 Barcelone	2003-07-21
+559	100_mètres_brasse	Homme	50	59:30	24	 États-Unis	 Long Beach	2004-07-8
+560	100_mètres_brasse	Homme	50	59:13	25	 États-Unis	 Irvine	2006-08-2
+561	100_mètres_brasse	Homme	50	58:91	26	 Japon	 Pékin	2008-08-11
+562	100_mètres_brasse	Homme	50	58:67	25	 Ukraine	 Kharkiv	2009-06-13
+563	100_mètres_brasse	Homme	50	58:58	25	 Australie	 Rome	2009-07-27
+564	100_mètres_brasse	Homme	50	58:46	24	 Afrique du Sud	 Londres	2012-07-29
+565	100_mètres_brasse	Homme	50	57:92	21	 Royaume-Uni	 Londres	2015-04-17
+566	100_mètres_brasse	Homme	50	57:55	21	 Royaume-Uni	 Rio de Janeiro	2016-08-6
+567	100_mètres_brasse	Homme	50	57:13	21	 Royaume-Uni	 Rio de Janeiro	2016-08-8
+568	100_mètres_brasse	Homme	50	57:10	23	 Royaume-Uni	 Glasgow	2018-08-4
+569	100_mètres_brasse	Homme	50	56:88	24	 Royaume-Uni	 Gwangju	2019-07-21
+570	100_mètres_brasse	Homme	25	57:80	25	 Australie	 Rome	2009-08-2
+571	100_mètres_brasse	Homme	25	57:74	20	 Royaume-Uni	 Kazan	2015-08-9
+572	100_mètres_brasse	Homme	25	56:59	21	 Royaume-Uni	 Rio de Janeiro	2016-08-13
+573	200_mètres_brasse	Homme	50	3:09:2	25	 Royaume-Uni	Londres	1908-07-18
+574	200_mètres_brasse	Homme	50	3:08:3	23	 Suède	Stockholm	1909-04-18
+575	200_mètres_brasse	Homme	50	3:00:8	22	 Belgique	Schaerbeek	1910-10-2
+576	200_mètres_brasse	Homme	50	2:56:6	26	 Royaume-Uni	Garston	1914-07-28
+577	200_mètres_brasse	Homme	50	2:54:4	21	 Allemagne	Amsterdam	1922-11-12
+578	200_mètres_brasse	Homme	50	2:52:6	21	 États-Unis	Milwaukee	1924-03-21
+579	200_mètres_brasse	Homme	50	2:50:4	23	 Allemagne	Magdebourg	1924-04-7
+580	200_mètres_brasse	Homme	50	2:48:0	26	 Allemagne	Bruxelles	1927-03-11
+581	200_mètres_brasse	Homme	50	2:48:0	26	 Japon	Kyoto	1929-07-27
+582	200_mètres_brasse	Homme	50	2:44:6		 États-Unis	Chicago	1931-04-2
+583	200_mètres_brasse	Homme	50	2:44:0		 États-Unis	New Haven	1932-04-1
+584	200_mètres_brasse	Homme	50	2:42:6	22	 France	Paris	1933-02-8
+585	200_mètres_brasse	Homme	50	2:42:4	25	 Reich allemand	Düsseldorf	1935-03-16
+586	200_mètres_brasse	Homme	50	2:39:6	24	 France	Paris	1935-05-4
+587	200_mètres_brasse	Homme	50	2:37:2	20	 États-Unis	New Haven	1936-03-28
+588	200_mètres_brasse	Homme	50	2:36:8	26	 France	Marseille	1941-07-6
+589	200_mètres_brasse	Homme	50	2:35:6	20	 États-Unis	Bainbridge	1946-04-5
+590	200_mètres_brasse	Homme	50	2:35:0	21	 États-Unis	New Haven	1947-02-15
+591	200_mètres_brasse	Homme	50	2:32:0	22	 États-Unis	New Haven	1948-02-15
+592	200_mètres_brasse	Homme	50	2:30:5	22	 États-Unis	New Haven	1948-04-2
+593	200_mètres_brasse	Homme	50	2:30:0	22	 États-Unis	New Haven	1948-06-28
+594	200_mètres_brasse	Homme	50	2:28:3	24	 États-Unis	New Haven	1950-03-31
+595	200_mètres_brasse	Homme	50	2:27:3	28	 Allemagne de l'Ouest	Munich	1951-06-9
+596	200_mètres_brasse	Homme	50	2:37:4	18	 Danemark	Copenhague	1953-02-14
+597	200_mètres_brasse	Homme	50	2:36:6	18	 Japon	Tokyo	1954-04-10
+598	200_mètres_brasse	Homme	50	2:35:4	18	 Japon	Tokyo	1954-04-10
+599	200_mètres_brasse	Homme	50	2:35:2		 Japon	Tokyo	1954-09-17
+600	200_mètres_brasse	Homme	50	2:33:7	19	 Japon	Tokyo	1955-08-5
+601	200_mètres_brasse	Homme	50	2:31:0	19	 Japon	Tokyo	1955-10-1
+602	200_mètres_brasse	Homme	50	2:36:5	23	 Australie	Townsville	1958-06-28
+603	200_mètres_brasse	Homme	50	2:33:6	20	 États-Unis	Tokyo	1961-07-28
+604	200_mètres_brasse	Homme	50	2:29:6	20	 États-Unis	Los Angeles	1961-08-19
+605	200_mètres_brasse	Homme	50	2:28:2	23	 États-Unis	New York	1964-08-30
+606	200_mètres_brasse	Homme	50	2:27:8	17	 Australie	Tokyo	1964-10-15
+607	200_mètres_brasse	Homme	50	2:27:4		 Union soviétique	Tallinn	1968-04-3
+608	200_mètres_brasse	Homme	50	2:26:5	20	 Union soviétique	Minsk	1969-03-22
+609	200_mètres_brasse	Homme	50	2:25:4	20	 Union soviétique	Magdebourg	1969-04-19
+610	200_mètres_brasse	Homme	50	2:23:5	19	 États-Unis	Los Angeles	1970-08-22
+611	200_mètres_brasse	Homme	50	2:22:79	18	 États-Unis	Chicago	1972-08-3
+612	200_mètres_brasse	Homme	50	2:21:55	18	 États-Unis	Munich	1972-09-2
+613	200_mètres_brasse	Homme	50	2:20:52	19	 États-Unis	Louisville	1973-08-24
+614	200_mètres_brasse	Homme	50	2:19:28	19	 Royaume-Uni	Belgrade	1973-09-9
+615	200_mètres_brasse	Homme	50	2:18:93	20	 États-Unis	Concord	1974-08-24
+616	200_mètres_brasse	Homme	50	2:18:21	20	 États-Unis	Concord	1974-09-1
+617	200_mètres_brasse	Homme	50	2:15:11	22	 Royaume-Uni	Montréal	1976-07-24
+618	200_mètres_brasse	Homme	50	2:14:77	18	 Canada	Guayaquil	1982-08-8
+619	200_mètres_brasse	Homme	50	2:14:58	20	 Canada	Etobicoke	1984-06-17
+620	200_mètres_brasse	Homme	50	2:13:34	20	 Canada	Los Angeles	1984-08-2
+621	200_mètres_brasse	Homme	50	2:12:90	21	 États-Unis	Los Angeles	1989-08-4
+622	200_mètres_brasse	Homme	50	2:12:90	22	 Royaume-Uni	Bonn	1989-08-19
+623	200_mètres_brasse	Homme	50	2:12:89	21	 États-Unis	Tokyo	1989-08-20
+624	200_mètres_brasse	Homme	50	2:11:53	22	 États-Unis	Seattle	1990-07-20
+625	200_mètres_brasse	Homme	50	2:11:23	23	 États-Unis	Perth	1991-01-13
+626	200_mètres_brasse	Homme	50	2:11:19	23	 États-Unis	Fort Lauderdale	1991-08-13
+627	200_mètres_brasse	Homme	50	2:10:83	24	 États-Unis	Barcelone	1992-07-29
+628	200_mètres_brasse	Homme	50	2:09:97	20	 Japon	Pusan	2002-10-2
+629	200_mètres_brasse	Homme	50	2:09:52	23	 Russie	Barcelone	2003-06-14
+630	200_mètres_brasse	Homme	50	2:09:42	21	 Japon	Barcelone	2003-07-24
+631	200_mètres_brasse	Homme	50	2:09:04	23	 États-Unis	Long Beach	2004-07-11
+632	200_mètres_brasse	Homme	50	2:08:74	25	 États-Unis	Irvine	2006-08-5
+633	200_mètres_brasse	Homme	50	2:08:50	25	 États-Unis	 Victoria	2006-08-21
+634	200_mètres_brasse	Homme	50	2:07:51	26	 Japon	 Tokyo	2008-06-8
+635	200_mètres_brasse	Homme	50	2:07:31	23	 Australie	 Rome	2009-07-30
+636	200_mètres_brasse	Homme	50	2:07:28	23	 Hongrie	 Londres	2012-08-1
+637	200_mètres_brasse	Homme	50	2:07:01	18	 Japon	 Gifu	2012-09-15
+638	200_mètres_brasse	Homme	50	2:06:67	20  21	 Japon   Australie	 Tokyo   Gwangju	2017-01-29
+639	200_mètres_brasse	Homme	50	2:06:12	22	 Russie	 Gwangju	2019-07-26
+640	200_mètres_brasse	Homme	25	2:08:15	24	 Royaume-Uni	Birmingham	1991-10-20
+641	200_mètres_brasse	Homme	25	2:07:79		 Russie	Paris	1998-03-28
+642	200_mètres_brasse	Homme	25	2:07:59	20	 Russie	Athènes	2000-03-19
+643	200_mètres_brasse	Homme	25	2:06:40	20	 États-Unis	Minneapolis	2000-03-25
+644	200_mètres_brasse	Homme	25	2:04:37	22	 États-Unis	Paris	2002-01-18
+645	200_mètres_brasse	Homme	25	2:03:28	22	 États-Unis	Stockholm	2002-01-22
+646	200_mètres_brasse	Homme	25	2:03:17	22	 États-Unis	Berlin	2002-01-26
+647	200_mètres_brasse	Homme	25	2:02:92	24	 États-Unis	Berlin	2004-01-26
+648	200_mètres_brasse	Homme	25	2:01:98	24	 Australie	 Hobart	2009-08-10
+649	200_mètres_brasse	Homme	25	2:00:67	20	 Hongrie	 Istanbul	2009-12-13
+650	200_mètres_brasse	Homme	25	2:00:48	25	 Hongrie	 Dubai	2014-08-31
+651	200_mètres_brasse	Homme	25	2:00:44	26	 Allemagne	Berlin	2016-11-20
+652	50_mètres_papillon	Homme	50	23:60	21	 Australie	 Sydney	2000-05-14
+653	50_mètres_papillon	Homme	50	23:44	22	 Australie	 Fukuoka	2001-07-27
+654	50_mètres_papillon	Homme	50	23:43	27	 Australie	 Barcelone	2003-07-21
+655	50_mètres_papillon	Homme	50	23:30	22	 États-Unis	 Austin	2004-03-1
+656	50_mètres_papillon	Homme	50	23:01	25	 Afrique du Sud	 Montréal	2005-07-24
+657	50_mètres_papillon	Homme	50	22:96	25	 Afrique du Sud	 Montréal	2005-07-25
+658	50_mètres_papillon	Homme	50	22:43	21	 Espagne	 Malaga	2009-04-5
+659	50_mètres_papillon	Homme	50	22:27	26	 Ukraine	 Rome	2018-07-1
+660	50_mètres_papillon	Homme	25	23:55	25	 Royaume-Uni	 Sheffield	1995-02-11
+661	50_mètres_papillon	Homme	25	23:45	25	 Royaume-Uni	 Sheffield	1995-12-15
+662	50_mètres_papillon	Homme	25	23:35	23	 Russie	 Paris	1997-02-8
+663	50_mètres_papillon	Homme	25	23:30	26	 Croatie	 Sheffield	1998-12-12
+664	50_mètres_papillon	Homme	25	23:21	22	 Australie	 Canberra	1999-09-5
+665	50_mètres_papillon	Homme	25	23:19	26	 Suède	 Athènes	2000-03-19
+666	50_mètres_papillon	Homme	25	23:11	23	 Australie	 Canberra	2000-06-18
+667	50_mètres_papillon	Homme	25	22:87	31	 Royaume-Uni	 Sheffield	2001-01-17
+668	50_mètres_papillon	Homme	25	22:84	22	 Australie	 Melbourne	2001-12-10
+669	50_mètres_papillon	Homme	25	22:84	23	 Australie	 Stockholm	2002-01-22
+670	50_mètres_papillon	Homme	25	22:74	23	 Australie	 Berlin	2002-01-26
+671	50_mètres_papillon	Homme	25	22:71	22	 États-Unis	 Indianapolis	2004-10-10
+672	50_mètres_papillon	Homme	25	22:60	21	 Brésil	 Santos	2005-12-17
+673	50_mètres_papillon	Homme	25	22:50	23	 Australie	 Sydney	2008-10-25
+674	50_mètres_papillon	Homme	25	22:29	23	 France	 Angers	2008-12-6
+675	50_mètres_papillon	Homme	25	22:18	23	 France	 Rijeka	2008-12-14
+676	50_mètres_papillon	Homme	25	22:06	22	 Allemagne	 Aix-la-Chapelle	2009-10-25
+677	50_mètres_papillon	Homme	25	21:80	22	 Allemagne	 Berlin	2009-11-14
+678	100_mètres_papillon	Homme	50	1:04:3		 Hongrie	 Budapest	1953-05-31
+679	100_mètres_papillon	Homme	50	1:03:7		 Hongrie	 Budapest	1954-05-8
+680	100_mètres_papillon	Homme	50	1:02:3		 Hongrie	 Budapest	1954-08-1
+681	100_mètres_papillon	Homme	50	1:02:1		 Hongrie	 Székesfehérvár	1954-11-20
+682	100_mètres_papillon	Homme	50	1:02:0		 Hongrie	 Budapest	1954-12-21
+683	100_mètres_papillon	Homme	50	1:01:5		 États-Unis	 New Haven	1955-04-2
+684	100_mètres_papillon	Homme	50	1:03:4		 Hongrie	 Budapest	1957-05-26
+685	100_mètres_papillon	Homme	50	1:01:5	22	 Japon	 Kurume	1957-06-16
+686	100_mètres_papillon	Homme	50	1:01:3	22	 Japon	 Tokyo	1957-07-7
+687	100_mètres_papillon	Homme	50	1:01:2	22	 Japon	 Kurume	1957-09-6
+688	100_mètres_papillon	Homme	50	1:01:1	23	 Japon	 Los Angeles	1958-06-29
+689	100_mètres_papillon	Homme	50	1:01:0	23	 Japon	 Kochi	1958-09-14
+690	100_mètres_papillon	Homme	50	59:0	20	 États-Unis	 Los Angeles	1960-06-26
+691	100_mètres_papillon	Homme	50	58:7	20	 États-Unis	 Toledo	1960-07-24
+692	100_mètres_papillon	Homme	50	58:6		 États-Unis	 Los Angeles	1961-08-20
+693	100_mètres_papillon	Homme	50	58:4		 Argentine	 Rio de Janeiro	1962-04-24
+694	100_mètres_papillon	Homme	50	57:0		 Argentine	 Rio de Janeiro	1962-04-27
+695	100_mètres_papillon	Homme	50	56:3	17	 États-Unis	 Winnipeg	1967-07-31
+696	100_mètres_papillon	Homme	50	55:7	17	 États-Unis	 Berlin-Ouest	1967-10-7
+697	100_mètres_papillon	Homme	50	55:6	18	 États-Unis	 Long Beach	1968-08-30
+698	100_mètres_papillon	Homme	50	55:0	21	 États-Unis	 Houston	1971-08-25
+699	100_mètres_papillon	Homme	50	54:72	22	 États-Unis	 Chicago	1972-08-4
+700	100_mètres_papillon	Homme	50	54:56	22	 États-Unis	 Chicago	1972-08-4
+701	100_mètres_papillon	Homme	50	54:27	22	 États-Unis	 Munich	1972-08-31
+702	100_mètres_papillon	Homme	50	54:18		 États-Unis	 Berlin-Est	1977-08-27
+703	100_mètres_papillon	Homme	50	54:15		 Suède	 Austin	1980-04-11
+704	100_mètres_papillon	Homme	50	53:81		 États-Unis	 Austin	1981-04-3
+705	100_mètres_papillon	Homme	50	53:44		 États-Unis	 Clovis	1983-08-6
+706	100_mètres_papillon	Homme	50	53:38		 États-Unis	 Indianapolis	1984-06-26
+707	100_mètres_papillon	Homme	50	53:08	20	 Allemagne de l'Ouest	 Los Angeles	1984-07-30
+708	100_mètres_papillon	Homme	50	52:84		 États-Unis	 Orlando (Floride)	1986-06-23
+709	100_mètres_papillon	Homme	50	52:32	21	 Russie	 Vienne (Autriche)	1995-08-23
+710	100_mètres_papillon	Homme	50	52:27	22	 Russie	 Atlanta	1996-07-24
+711	100_mètres_papillon	Homme	50	52:15	20	 Australie	 Brisbane	1997-10-9
+712	100_mètres_papillon	Homme	50	52:03	22	 Australie	 Canberra	1999-12-10
+713	100_mètres_papillon	Homme	50	51:81	22	 Australie	 Canberra	1999-12-12
+714	100_mètres_papillon	Homme	50	51:76	21	 Ukraine	 Barcelone	2003-07-25
+715	100_mètres_papillon	Homme	50	51:47	18	 États-Unis	 Barcelone	2003-07-25
+716	100_mètres_papillon	Homme	50	50:98	22	 États-Unis	 Barcelone	2003-07-26
+717	100_mètres_papillon	Homme	50	50:76	22	 États-Unis	 Long Beach	2004-07-13
+718	100_mètres_papillon	Homme	50	50:40	23	 États-Unis	 Montréal	2005-07-30
+719	100_mètres_papillon	Homme	50	50:22	24	 États-Unis	 Indianapolis	2009-07-9
+720	100_mètres_papillon	Homme	50	50:01	25	 Serbie	 Rome	2009-07-31
+721	100_mètres_papillon	Homme	50	49:82	24	 États-Unis	 Rome	2009-08-1
+722	100_mètres_papillon	Homme	50	49:50	22	 États-Unis	Gwangju	2019-07-26
+723	100_mètres_papillon	Homme	25	51:93	23	 Russie	 Imperia	1997-02-5
+724	100_mètres_papillon	Homme	25	51:78	23	 Russie	 Paris	1997-02-7
+725	100_mètres_papillon	Homme	25	51:16	21	 Australie	 Sydney	1998-01-22
+726	100_mètres_papillon	Homme	25	51:07	21	 Australie	 Sydney	1998-01-22
+727	100_mètres_papillon	Homme	25	51:02	22	 Royaume-Uni	 Sheffield	1998-12-13
+728	100_mètres_papillon	Homme	25	50:99	22	 Australie	 Canberra	1999-09-2
+729	100_mètres_papillon	Homme	25	50:59	26	 Suède	 Athènes	2000-03-16
+730	100_mètres_papillon	Homme	25	50:44	26	 Suède	 Athènes	2000-03-17
+731	100_mètres_papillon	Homme	25	50:26	24	 Allemagne	 Anvers	2001-12-14
+732	100_mètres_papillon	Homme	25	50:10	24	 Allemagne	 Berlin	2002-01-27
+733	100_mètres_papillon	Homme	25	50:02	19	 Serbie-et-Monténégro	 Dublin	2003-12-12
+734	100_mètres_papillon	Homme	25	49:77	22	 États-Unis	 East Meadow	2004-03-26
+735	100_mètres_papillon	Homme	25	49:07	22	 États-Unis	 East Meadow	2004-03-26
+736	100_mètres_papillon	Homme	25	48:99	26	 Russie	 Moscou	2009-11-7
+737	100_mètres_papillon	Homme	25	48:48	26	 Russie	 Berlin	2009-11-15
+738	100_mètres_papillon	Homme	25	48:44	22	 Afrique du Sud	 Doha	2014-12-4
+739	100_mètres_papillon	Homme	25	48:08	24	 Afrique du Sud	 Windsor	2016-12-8
+740	200_mètres_papillon	Homme	50	2:21:6		 Japon	 Tokyo	1954-09-17
+741	200_mètres_papillon	Homme	50	2:20:8		 Japon	 Tokyo	1955-10-1
+742	200_mètres_papillon	Homme	50	2:19:3		 Japon	 New Haven	1956-03-14
+743	200_mètres_papillon	Homme	50	2:16:7		 États-Unis	 Winchendon	1956-04-14
+744	200_mètres_papillon	Homme	50	2:19:0	19	 États-Unis	 Los Altos	1959-07-11
+745	200_mètres_papillon	Homme	50	2:16:4	19	 États-Unis	 Los Altos	1959-07-11
+746	200_mètres_papillon	Homme	50	2:15:0	19	 États-Unis	 Evansville	1959-07-01
+747	200_mètres_papillon	Homme	50	2:13:4	20	 États-Unis	 Toledo	1960-07-23
+748	200_mètres_papillon	Homme	50	2:13:2	20	 États-Unis	 Détroit	1960-08-4
+749	200_mètres_papillon	Homme	50	2:12:8	20	 États-Unis	 Rome	1960-09-2
+750	200_mètres_papillon	Homme	50	2:12:6	16	 États-Unis	 Los Angeles	1961-08-19
+751	200_mètres_papillon	Homme	50	2:12:5	17	 Australie	 Melbourne	1962-02-20
+752	200_mètres_papillon	Homme	50	2:12:4	17	 États-Unis	 Cuyahoga Falls	1962-08-11
+753	200_mètres_papillon	Homme	50	2:10:8	17	 États-Unis	 Cuyahoga Falls	1962-08-11
+754	200_mètres_papillon	Homme	50	2:09:7	17	 Australie	 Melbourne	1962-10-23
+755	200_mètres_papillon	Homme	50	2:08:4	18	 Australie	 Sydney	1963-01-12
+756	200_mètres_papillon	Homme	50	2:08:2	18	 États-Unis	 Tokyo	1963-03-18
+757	200_mètres_papillon	Homme	50	2:06:9	19	 Australie	 Sydney	1964-03-23
+758	200_mètres_papillon	Homme	50	2:06:6	19	 Australie	 Tokyo	1964-10-18
+759	200_mètres_papillon	Homme	50	2:06:4	17	 États-Unis	 Winnipeg	1967-07-26
+760	200_mètres_papillon	Homme	50	2:06:4	17	 États-Unis	 Oak Park	1967-08-12
+761	200_mètres_papillon	Homme	50	2:06:0		 États-Unis	 Tokyo	1967-08-30
+762	200_mètres_papillon	Homme	50	2:05:7	17	 États-Unis	 Berlin-Ouest	1967-10-8
+763	200_mètres_papillon	Homme	50	2:05:4	20	 États-Unis	 Los Angeles	1970-08-22
+764	200_mètres_papillon	Homme	50	2:05:0	19	 États-Unis	 Los Angeles	1970-08-22
+765	200_mètres_papillon	Homme	50	2:03:9	21	 États-Unis	 Houston	1971-08-27
+766	200_mètres_papillon	Homme	50	2:03:9	21	 États-Unis	 Houston	1971-08-27
+767	200_mètres_papillon	Homme	50	2:03:3		 Allemagne de l'Ouest	 Landskrona	1971-08-31
+768	200_mètres_papillon	Homme	50	2:01:87	22	 États-Unis	 Chicago	1972-08-2
+769	200_mètres_papillon	Homme	50	2:01:53	22	 États-Unis	 Chicago	1972-08-2
+770	200_mètres_papillon	Homme	50	2:00:70	22	 États-Unis	 Munich	1972-08-28
+771	200_mètres_papillon	Homme	50	2:00:21		 Allemagne de l'Ouest	 Berlin-Ouest	1976-06-3
+772	200_mètres_papillon	Homme	50	1:59:63		 Allemagne de l'Ouest	 Berlin-Ouest	1976-06-3
+773	200_mètres_papillon	Homme	50	1:59:23		 États-Unis	 Montréal	1976-07-18
+774	200_mètres_papillon	Homme	50	1:58:21		 États-Unis	 Irvine	1980-07-30
+775	200_mètres_papillon	Homme	50	1:58:01		 États-Unis	 Kiev	1981-08-22
+776	200_mètres_papillon	Homme	50	1:57:05	19	 Allemagne de l'Ouest	 Rome	1983-08-26
+777	200_mètres_papillon	Homme	50	1:57:04		 Australie	 Los Angeles	1984-08-3
+778	200_mètres_papillon	Homme	50	1:57:01	21	 Allemagne de l'Ouest	 Wuppertal	1985-06-29
+779	200_mètres_papillon	Homme	50	1:56:65	21	 Allemagne de l'Ouest	 Sofia	1985-08-10
+780	200_mètres_papillon	Homme	50	1:56:24	22	 Allemagne de l'Ouest	 Hanovre	1986-06-28
+781	200_mètres_papillon	Homme	50	1:55:69	23	 États-Unis	 Perth	1991-01-12
+782	200_mètres_papillon	Homme	50	1:55:22	21	 Russie	 Canet-en-Roussillon	1995-06-14
+783	200_mètres_papillon	Homme	50	1:55:18	23	 États-Unis	 Charlotte	2000-06-17
+784	200_mètres_papillon	Homme	50	1:54:92	15	 États-Unis	 Austin	2001-03-30
+785	200_mètres_papillon	Homme	50	1:54:58	16	 États-Unis	 Fukuoka	2001-07-24
+786	200_mètres_papillon	Homme	50	1:53:93	18	 États-Unis	 Barcelone	2003-07-22
+787	200_mètres_papillon	Homme	50	1:53:80	21	 États-Unis	 Victoria	2006-08-17
+788	200_mètres_papillon	Homme	50	1:53:71	21	 États-Unis	 Columbia	2007-02-17
+789	200_mètres_papillon	Homme	50	1:52:09	22	 États-Unis	 Melbourne	2007-03-28
+790	200_mètres_papillon	Homme	50	1:52:03	23	 États-Unis	 Pékin	2008-08-13
+791	200_mètres_papillon	Homme	50	1:51:51	24	 États-Unis	 Rome	2009-07-29
+792	200_mètres_papillon	Homme	50	1:50:73	19	 Hongrie	 Gwangju	2019-07-24
+793	200_mètres_papillon	Homme	25	1:56:20		 Allemagne de l'Ouest		
+794	200_mètres_papillon	Homme	25	1:56:18	17	 Allemagne de l'Ouest		1981-01-01
+795	200_mètres_papillon	Homme	25	1:54:78	21	 Allemagne de l'Ouest	 Bonn	1985-01-01
+796	200_mètres_papillon	Homme	25	1:54:67	21	 France		1992-01-01
+797	200_mètres_papillon	Homme	25	1:54:58	18	 Nouvelle-Zélande		1993-01-01
+798	200_mètres_papillon	Homme	25	1:54:50	18	 Nouvelle-Zélande		1993-01-01
+799	200_mètres_papillon	Homme	25	1:54:21	18	 Nouvelle-Zélande		1993-01-01
+800	200_mètres_papillon	Homme	25	1:53:05	23	 France	 Paris	1994-03-26
+801	200_mètres_papillon	Homme	25	1:52:64	23	 Russie	 Gelsenkirchen	1997-01-01
+802	200_mètres_papillon	Homme	25	1:51:76	22	 Royaume-Uni	 Paris	1998-03-28
+803	200_mètres_papillon	Homme	25	1:51:58	30	 France	 Antibes	2001-01-14
+804	200_mètres_papillon	Homme	25	1:51:21	24	 Allemagne	 Rostock	2001-12-1
+805	200_mètres_papillon	Homme	25	1:50:73	31	 France	 Antibes	2002-12-8
+806	200_mètres_papillon	Homme	25	1:50:60	24	 Russie	 Rijeka	2008-12-13
+807	200_mètres_papillon	Homme	25	1:50:53	25	 Russie	 Saint-Pétersbourg	2009-02-12
+808	200_mètres_papillon	Homme	25	1:49:11	25	 Brésil	 Stockholm	2009-11-10
+809	200_mètres_papillon	Homme	25	1:49:04	21	 Afrique du Sud	 Eindhoven	2013-08-7
+810	200_mètres_papillon	Homme	25	1:48:56	21	 Afrique du Sud	 Singapour	2013-11-5
+811	200_mètres_papillon	Homme	25	1:48:24	24	Japon	Chine	2018-12-11
+812	200_mètres_4_nages	Homme	50	2:30:7		 États-Unis	 Los Angeles	1956-08-24
+813	200_mètres_4_nages	Homme	50	2:29:1		 États-Unis	 Akron	1958-07-19
+814	200_mètres_4_nages	Homme	50	2:26:2		 États-Unis	 Los Angeles	1959-06-27
+815	200_mètres_4_nages	Homme	50	2:24:7		 États-Unis	 Santa Clara	1959-07-11
+816	200_mètres_4_nages	Homme	50	2:22:2		 États-Unis	 Toledo	1960-07-23
+817	200_mètres_4_nages	Homme	50	2:22:1		 États-Unis	 Toledo	1960-07-23
+818	200_mètres_4_nages	Homme	50	2:21:3		 États-Unis	 Chicago	1961-07-2
+819	200_mètres_4_nages	Homme	50	2:20:5		 États-Unis	 Cuyahoga Falls	1961-07-22
+820	200_mètres_4_nages	Homme	50	2:19:6		 États-Unis	 Los Angeles	1961-08-19
+821	200_mètres_4_nages	Homme	50	2:15:9		 États-Unis	 Los Angeles	1961-08-19
+822	200_mètres_4_nages	Homme	50	2:15:5		 États-Unis	 Los Altos	1964-08-2
+823	200_mètres_4_nages	Homme	50	2:14:9		 États-Unis	 Maunee	1964-08-15
+824	200_mètres_4_nages	Homme	50	2:13:1		 États-Unis	 Los Altos	1966-07-24
+825	200_mètres_4_nages	Homme	50	2:12:4		 États-Unis	 Lincoln	1966-08-21
+826	200_mètres_4_nages	Homme	50	2:11:3		 États-Unis	 Oak Park	1967-08-23
+827	200_mètres_4_nages	Homme	50	2:10:6	21	 États-Unis	 Los Angeles	1968-08-31
+828	200_mètres_4_nages	Homme	50	2:09:6	18	 États-Unis	 Louisville	1969-08-17
+829	200_mètres_4_nages	Homme	50	2:09:5	19	 États-Unis	 Los Angeles	1970-08-23
+830	200_mètres_4_nages	Homme	50	2:09:3	26	 Suède	 Barcelone	1970-09-12
+831	200_mètres_4_nages	Homme	50	2:09:30	21	 États-Unis	 Chicago	1972-08-6
+832	200_mètres_4_nages	Homme	50	2:07:17	28	 Suède	 Munich	1972-09-3
+833	200_mètres_4_nages	Homme	50	2:06:32	20	 Royaume-Uni	 Vienne	1974-08-24
+834	200_mètres_4_nages	Homme	50	2:06:32		 États-Unis	 Concord	1974-09-1
+835	200_mètres_4_nages	Homme	50	2:06:08	18	 États-Unis	 Kansas City	1975-08-23
+836	200_mètres_4_nages	Homme	50	2:05:31	19	 Canada	 Montréal	1977-08-4
+837	200_mètres_4_nages	Homme	50	2:05:24		 Union soviétique	 Moscou	1978-07-9
+838	200_mètres_4_nages	Homme	50	2:04:39	17	 États-Unis	 The Woodlands	1978-08-2
+839	200_mètres_4_nages	Homme	50	2:03:65	20	 Canada	 Berlin-Ouest	1978-08-24
+840	200_mètres_4_nages	Homme	50	2:03:29		 États-Unis	 San Juan	1979-07-6
+841	200_mètres_4_nages	Homme	50	2:03:24		 États-Unis	 Irvine	1980-08-1
+842	200_mètres_4_nages	Homme	50	2:02:78		 Canada	 Heidelberg	1981-07-29
+843	200_mètres_4_nages	Homme	50	2:02:25		 Canada	 Brisbane	1982-10-5
+844	200_mètres_4_nages	Homme	50	2:01:42		 Canada	 Los Angeles	1984-08-4
+845	200_mètres_4_nages	Homme	50	2:01:42		 Canada	 Montréal	1986-03-1
+846	200_mètres_4_nages	Homme	50	2:00:56	20	 Hongrie	 Strasbourg	1987-08-23
+847	200_mètres_4_nages	Homme	50	2:00:17	21	 Hongrie	 Séoul	1988-09-25
+848	200_mètres_4_nages	Homme	50	2:00:11	20	 États-Unis	 Tokyo	1989-08-20
+849	200_mètres_4_nages	Homme	50	1:59:36	24	 Hongrie	 Perth	1991-01-13
+850	200_mètres_4_nages	Homme	50	1:58:16	20	 Finlande	 Rome	1994-09-11
+851	200_mètres_4_nages	Homme	50	1:57:94	18	 États-Unis	 Santa Clara	2003-06-29
+852	200_mètres_4_nages	Homme	50	1:57:52	18	 États-Unis	 Barcelone	2003-07-24
+853	200_mètres_4_nages	Homme	50	1:56:04	18	 États-Unis	 Barcelone	2003-07-25
+854	200_mètres_4_nages	Homme	50	1:55:94	18	 États-Unis	 College Park	2003-08-9
+855	200_mètres_4_nages	Homme	50	1:55:84	21	 États-Unis	 Victoria	2006-08-20
+856	200_mètres_4_nages	Homme	50	1:54:98	22	 États-Unis	 Melbourne	2007-03-29
+857	200_mètres_4_nages	Homme	50	1:54:80	23	 États-Unis	 Omaha	2008-07-4
+858	200_mètres_4_nages	Homme	50	1:54:23	23	 États-Unis	 Pékin	2008-08-15
+859	200_mètres_4_nages	Homme	50	1:54:10	25	 États-Unis	 Rome	2009-07-30
+860	200_mètres_4_nages	Homme	50	1:54:00	27	 États-Unis	 Shanghai	2011-07-28
+861	200_mètres_4_nages	Homme	25	1:57:19	19	 Finlande	 Kuopio	1993-01-17
+862	200_mètres_4_nages	Homme	25	1:56:84	19	 Finlande	 Helsinki	1993-01-22
+863	200_mètres_4_nages	Homme	25	1:56:62	19	 Finlande	 Paris	1993-02-7
+864	200_mètres_4_nages	Homme	25	1:55:59	19	 Finlande	 Malmö	1993-02-10
+865	200_mètres_4_nages	Homme	25	1:54:65	20	 Finlande	 Kuopio	1994-04-21
+866	200_mètres_4_nages	Homme	25	1:54:65	26	 Hongrie	 Minneapolis	2000-03-23
+867	200_mètres_4_nages	Homme	25	1:53:93	21	 Trinité-et-Tobago	 East Meadow	2004-03-25
+868	200_mètres_4_nages	Homme	25	1:53:46	22	 Hongrie	 Trieste	2005-12-8
+869	200_mètres_4_nages	Homme	25	1:53:31	22	 États-Unis	 Shanghai	2006-04-7
+870	200_mètres_4_nages	Homme	25	1:53:14	21	 Brésil	 Berlin	2007-11-18
+871	200_mètres_4_nages	Homme	25	1:52:99	22	 Hongrie	 Debrecen	2007-12-13
+872	200_mètres_4_nages	Homme	25	1:51:56	23	 États-Unis	 Manchester	2008-04-11
+873	200_mètres_4_nages	Homme	25	1:51:55	25	 Afrique du Sud	 Berlin	2009-11-15
+874	200_mètres_4_nages	Homme	25	1:50:08	26	 États-Unis	 Dubaï	2010-12-17
+875	200_mètres_4_nages	Homme	25	1:49:63	28	 États-Unis	 Istanbul	2012-12-14
+876	400_mètres_4_nages	Homme	50	5:35:6		 France	 Troyes	1953-04-24
+877	400_mètres_4_nages	Homme	50	5:32:1		 Hongrie	 Budapest	1953-07-26
+878	400_mètres_4_nages	Homme	50	5:31:0		 Suède	 Lund	1953-10-29
+879	400_mètres_4_nages	Homme	50	5:27:3		 France	 Reims	1954-03-18
+880	400_mètres_4_nages	Homme	50	5:15:6		 États-Unis	 Philadelphie	1957-08-27
+881	400_mètres_4_nages	Homme	50	5:12:9	22	 Royaume-Uni	 Cardiff	1959-06-6
+882	400_mètres_4_nages	Homme	50	5:07:8		 États-Unis	 Los Angeles	1960-06-24
+883	400_mètres_4_nages	Homme	50	5:05:3		 États-Unis	 Los Angeles	1960-06-24
+884	400_mètres_4_nages	Homme	50	5:04:5		 États-Unis	 Toledo	1960-07-22
+885	400_mètres_4_nages	Homme	50	5:04:3		 États-Unis	 Chicago	1961-07-1
+886	400_mètres_4_nages	Homme	50	4:55:6		 États-Unis	 Los Angeles	1961-08-18
+887	400_mètres_4_nages	Homme	50	4:53:8	20	 États-Unis	 Moscou	1962-05-24
+888	400_mètres_4_nages	Homme	50	4:51:4		 États-Unis	 Chicago	1962-06-30
+889	400_mètres_4_nages	Homme	50	4:51:0		 États-Unis	 Louisville	1962-07-12
+890	400_mètres_4_nages	Homme	50	4:50:2	21	 États-Unis	 Tokyo	1963-10-12
+891	400_mètres_4_nages	Homme	50	4:48:6	17	 États-Unis	 Los Altos	1964-07-31
+892	400_mètres_4_nages	Homme	50	4:45:4	17	 États-Unis	 Tokyo	1964-10-14
+893	400_mètres_4_nages	Homme	50	4:45:3		 Union soviétique	 Tallinn	1968-04-3
+894	400_mètres_4_nages	Homme	50	4:45:1		 États-Unis	 Santa Clara	1968-07-6
+895	400_mètres_4_nages	Homme	50	4:43:4	17	 États-Unis	 Los Angeles	1968-07-20
+896	400_mètres_4_nages	Homme	50	4:43:3	21	 États-Unis	 Long Beach	1968-08-30
+897	400_mètres_4_nages	Homme	50	4:39:0	21	 États-Unis	 Long Beach	1968-08-30
+898	400_mètres_4_nages	Homme	50	4:38:7	18	 États-Unis	 Santa Clara	1969-07-11
+899	400_mètres_4_nages	Homme	50	4:33:9	18	 États-Unis	 Louisville	1969-08-15
+900	400_mètres_4_nages	Homme	50	4:31:00	19	 États-Unis	 Los Angeles	1970-08-21
+901	400_mètres_4_nages	Homme	50	4:30:81	21	 États-Unis	 Chicago	1972-08-3
+902	400_mètres_4_nages	Homme	50	4:28:89	18	 Hongrie	 Vienne	1974-08-20
+903	400_mètres_4_nages	Homme	50	4:26:00		 Hongrie	 Long Beach	1976-04-2
+904	400_mètres_4_nages	Homme	50	4:23:68	21	 États-Unis	 Montréal	1976-07-25
+905	400_mètres_4_nages	Homme	50	4:23:39	17	 États-Unis	 The Woodlands	1978-08-4
+906	400_mètres_4_nages	Homme	50	4:20:05	17	 États-Unis	 Berlin-Ouest	1978-08-28
+907	400_mètres_4_nages	Homme	50	4:19:78	17	 Brésil	 Guayaquil	1982-08-8
+908	400_mètres_4_nages	Homme	50	4:19:61	21	 Allemagne de l'Est	 Magdebourg	1984-05-23
+909	400_mètres_4_nages	Homme	50	4:17:53	20	 Canada	 Etobicoke	1984-06-17
+910	400_mètres_4_nages	Homme	50	4:17:41	20	 Canada	 Los Angeles	1984-07-30
+911	400_mètres_4_nages	Homme	50	4:16:12	18	 États-Unis	 Brisbane	1987-08-14
+912	400_mètres_4_nages	Homme	50	4:15:42	20	 Hongrie	 Strasbourg	1987-08-19
+913	400_mètres_4_nages	Homme	50	4:14:75	21	 Hongrie	 Séoul	1988-09-21
+914	400_mètres_4_nages	Homme	50	4:12:36	24	 Hongrie	 Perth	1991-01-13
+915	400_mètres_4_nages	Homme	50	4:12:30	20	 États-Unis	 Rome	1994-09-11
+916	400_mètres_4_nages	Homme	50	4:11:76	26	 États-Unis	 Sydney	2000-09-17
+917	400_mètres_4_nages	Homme	50	4:11:09	17	 États-Unis	 Fort Lauderdale	2002-08-15
+918	400_mètres_4_nages	Homme	50	4:10:73	18	 États-Unis	 Indianapolis	2003-04-7
+919	400_mètres_4_nages	Homme	50	4:09:09	18	 États-Unis	 Barcelone	2003-07-27
+920	400_mètres_4_nages	Homme	50	4:08:41	19	 États-Unis	 Long Beach	2004-07-7
+921	400_mètres_4_nages	Homme	50	4:08:26	19	 États-Unis	 Athènes	2004-08-14
+922	400_mètres_4_nages	Homme	50	4:06:22	22	 États-Unis	 Melbourne	2007-04-1
+923	400_mètres_4_nages	Homme	50	4:05:25	23	 États-Unis	 Omaha	2008-06-29
+924	400_mètres_4_nages	Homme	50	4:03:84	23	 États-Unis	 Pékin	2008-08-10
+925	400_mètres_4_nages	Homme	25	4:08:77	24	 Italie	 Palma	1992-02-28
+926	400_mètres_4_nages	Homme	25	4:07:10	19	 Finlande	 Malmö	1993-02-9
+927	400_mètres_4_nages	Homme	25	4:06:03	22	 Finlande	 Lappeenranta	1996-01-20
+928	400_mètres_4_nages	Homme	25	4:05:59	25	 Pays-Bas	 Gelsenkirchen	1997-02-1
+929	400_mètres_4_nages	Homme	25	4:05:41	25	 Pays-Bas	 Paris	1997-02-8
+930	400_mètres_4_nages	Homme	25	4:04:24	25	 Australie	 Perth	1998-09-24
+931	400_mètres_4_nages	Homme	25	4:02:72	21	 Canada	 Victoria	2003-02-23
+932	400_mètres_4_nages	Homme	25	4:00:37	20	 Hongrie	 Trieste	2005-12-9
+933	400_mètres_4_nages	Homme	25	3:59:33	22	 Hongrie	 Debrecen	2007-12-14
+934	400_mètres_4_nages	Homme	25	3:57:27	24	 Hongrie	 Istanbul	2009-12-11
+935	400_mètres_4_nages	Homme	25	3:55:50	26	 États-Unis	 Dubaï	2010-12-16
+936	800_mètres_nage_libre	Homme	50	11:25:4 		 Royaume-Uni	 Runcorn	1906-07-21
+937	800_mètres_nage_libre	Homme	50	11:24:2 		 États-Unis	 Sydney	1920-01-10
+938	800_mètres_nage_libre	Homme	50	11:05:2 		 Australie	 Sydney	1923-01-13
+939	800_mètres_nage_libre	Homme	50	10:51:8 		 Australie	 Sydney	1924-01-19
+940	800_mètres_nage_libre	Homme	50	10:43:6		 Suède	 Honolulu	1924-04-11
+941	800_mètres_nage_libre	Homme	50	10:37:4		 Suède	 Harnäs (sv)	1925-08-25
+942	800_mètres_nage_libre	Homme	50	10:32:0 		 Australie	 Sydney	1927-01-8
+943	800_mètres_nage_libre	Homme	50	10:22:2 		 États-Unis	 Honolulu	1927-07-27
+944	800_mètres_nage_libre	Homme	50	10:19:6		 France	 Paris	1930-05-30
+945	800_mètres_nage_libre	Homme	50	10:17:2		 France	 Cannes	1931-06-9
+946	800_mètres_nage_libre	Homme	50	10:16:6		 Japon	 Osaka	1931-08-30
+947	800_mètres_nage_libre	Homme	50	10:15:6		 France	 Cannes	1932-06-21
+948	800_mètres_nage_libre	Homme	50	10:08:6		 Japon	 Tokyo	1933-06-25
+949	800_mètres_nage_libre	Homme	50	10:01:2		 Japon	 Tokyo	1933-09-16
+950	800_mètres_nage_libre	Homme	50	9:55:8		 Japon	 Tokyo	1934-09-15
+951	800_mètres_nage_libre	Homme	50	9:50:9		 États-Unis	 Honolulu	1941-07-24
+952	800_mètres_nage_libre	Homme	50	9:45:6		 Japon	 Tokyo	1949-06-26
+953	800_mètres_nage_libre	Homme	50	9:45:0		 Japon	 Los Angeles	1949-08-16
+954	800_mètres_nage_libre	Homme	50	9:40:7		 Japon	 Los Angeles	1949-08-16
+955	800_mètres_nage_libre	Homme	50	9:35:5		 Japon	 Los Angeles	1949-08-19
+956	800_mètres_nage_libre	Homme	50	9:30:7		 États-Unis	 Honolulu	1951-07-7
+957	800_mètres_nage_libre	Homme	50	9:15:7		 États-Unis	 New Haven	1956-10-27
+958	800_mètres_nage_libre	Homme	50	9:17:7 		 Australie	 Sydney	1958-01-11
+959	800_mètres_nage_libre	Homme	50	9:14:5		 Australie	 Melbourne	1958-02-22
+960	800_mètres_nage_libre	Homme	50	8:59:6 		 Australie	 Sydney	1959-01-10
+961	800_mètres_nage_libre	Homme	50	8:51:5		 Australie	 Los Altos	1962-08-26
+962	800_mètres_nage_libre	Homme	50	8:47:4		 Union soviétique	 Kharkov	1966-08-3
+963	800_mètres_nage_libre	Homme	50	8:47:3		 Australie	 Sydney	1967-01-16
+964	800_mètres_nage_libre	Homme	50	8:46:8		 France	Monaco	1967-07-5
+965	800_mètres_nage_libre	Homme	50	8:42:0		 France	 Dinard	1967-07-21
+966	800_mètres_nage_libre	Homme	50	8:34:3		 États-Unis	 Long Beach	1968-09-3
+967	800_mètres_nage_libre	Homme	50	8:28:8		 États-Unis	 Louisville	1969-08-17
+968	800_mètres_nage_libre	Homme	50	8:28:6		 Australie	 Sydney	1971-04-3
+969	800_mètres_nage_libre	Homme	50	8:23:8		 Australie	 Sydney	1972-01-12
+970	800_mètres_nage_libre	Homme	50	8:17:60		 Australie	 Brisbane	1973-08-5
+971	800_mètres_nage_libre	Homme	50	8:16:27		 Australie	 Belgrade	1973-09-8
+972	800_mètres_nage_libre	Homme	50	8:15:88		 Australie	 Christchurch	1974-02-1
+973	800_mètres_nage_libre	Homme	50	8:15:20		 Australie	 Brisbane	1975-01-17
+974	800_mètres_nage_libre	Homme	50	8:15:02		 Australie	 Christchurch	1975-01-25
+975	800_mètres_nage_libre	Homme	50	8:13:68		 États-Unis	 Long Beach	1975-06-21
+976	800_mètres_nage_libre	Homme	50	8:09:60		 États-Unis	 Mission Viejo	1975-07-13
+977	800_mètres_nage_libre	Homme	50	8:06:27		 Australie	 Sydney	1976-02-27
+978	800_mètres_nage_libre	Homme	50	8:02:91		 Australie	 Sydney	1976-02-29
+979	800_mètres_nage_libre	Homme	50	8:01:54		 États-Unis	 Long Beach	1976-06-21
+980	800_mètres_nage_libre	Homme	50	7:56:49		 Union soviétique	 Minsk	1979-03-23
+981	800_mètres_nage_libre	Homme	50	7:52:83		 Union soviétique	 Moscou	1982-02-14
+982	800_mètres_nage_libre	Homme	50	7:52:33		 Union soviétique	 Los Angeles	1983-07-14
+983	800_mètres_nage_libre	Homme	50	7:50:64		 Union soviétique	 Moscou	1986-07-4
+984	800_mètres_nage_libre	Homme	50	7:47:85		 Australie	 Edmonton	1991-08-25
+985	800_mètres_nage_libre	Homme	50	7:46:60		 Australie	 Sydney	1992-02-14
+986	800_mètres_nage_libre	Homme	50	7:46:00		 Australie	 Victoria	1994-08-24
+987	800_mètres_nage_libre	Homme	50	7:41:59		 Australie	 Hobart	2001-03-26
+988	800_mètres_nage_libre	Homme	50	7:39:16		 Australie	 Fukuoka	2001-07-25
+989	800_mètres_nage_libre	Homme	50	7:38:65		 Australie	 Montréal	2005-07-27
+990	800_mètres_nage_libre	Homme	50	7:32:12		 Chine	 Rome	2009-07-29
+991	800_mètres_nage_libre	Homme	25	7:48:24	22	 Union soviétique		1982-01-01
+992	800_mètres_nage_libre	Homme	25	7:44:53	18	 États-Unis	 Indianapolis	1983-01-7
+993	800_mètres_nage_libre	Homme	25	7:38:90	23	 Union soviétique	 Bonn	1983-02-13
+994	800_mètres_nage_libre	Homme	25	7:38:75	21	 Allemagne de l'Ouest	 Bonn	1985-01-01
+995	800_mètres_nage_libre	Homme	25	7:34:90	20	 Australie	 Sydney	1993-07-25
+996	800_mètres_nage_libre	Homme	25	7:25:28	21	 Australie	 Perth	2001-08-3
+997	800_mètres_nage_libre	Homme	25	7:23:42	28	 Australie	 Melbourne	2008-07-19
